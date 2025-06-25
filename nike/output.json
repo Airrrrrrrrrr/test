@@ -1,0 +1,3654 @@
+[{
+    "title": "耐克气焰篮球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 899,
+        "discounted": false,
+        "employeePrice": 539,
+        "fullPrice": 899,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "浅野芒果黄/原子粉/烟灰蓝/柠檬黄",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/c4e0edb8-ef47-4879-a611-c733ed078c36/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/098bc2b8-27e8-4610-b7c9-6c65a0d580be/s-t-flare-ep-%E8%80%90%E5%85%8B%E6%B0%94%E7%84%B0%E7%AF%AE%E7%90%83%E9%9E%8B-fmh82L.png"
+            }
+        },
+        {
+            "colorDescription": "原子粉/紫菀粉",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/d9e7a2f0-2775-43d0-9a7a-a6342f730e18/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/53e154ee-183f-4645-a2a8-3a6207ae76e2/s-t-flare-ep-%E8%80%90%E5%85%8B%E6%B0%94%E7%84%B0%E7%AF%AE%E7%90%83%E9%9E%8B-fmh82L.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "ee86b1f1-90ca-5db8-a909-08ca5005c623",
+        "fb1bcf64-ad08-59cb-b003-2540672d9ffd",
+        "2a334b0c-d00c-58bc-b53d-8f6b225a0d43",
+        "84e857e6-0442-5b12-8565-86243ca355cd",
+        "e5a79150-e195-5ed7-b19f-1ea90871f1e9",
+        "eae07b5a-cc6e-5c6c-97af-67252bad3115",
+        "0a757cc5-5059-50eb-a05d-01207c3d1db5",
+        "b4c7baa7-3e3a-5fe7-80a7-7e0148038143",
+        "b26cc27d-8a16-5133-a082-b1f70d0aa9c3",
+        "b8a7ba07-1c53-5982-8eef-89aeb40ff8ab",
+        "fe78687b-d77c-57de-b55a-ce889e3f641c",
+        "12e0db65-dbd7-50b1-995d-2764080ecaa4",
+        "13316e49-46e4-5da2-9e76-13486e04a390",
+        "9e9334f5-39db-5924-86f4-7e31f25d18e1",
+        "eae437f0-2acd-5a59-86dd-a735ff22990b",
+        "cc77f98c-b618-549a-a996-0bcc55bbda83",
+        "9ff3ff42-b627-5ef0-bc0e-b21263b9927f",
+        "54c2b639-4bbd-59bc-8cd9-41a9acc841c4",
+        "0f5f37ab-9add-507c-ad3d-2673c34bde32",
+        "27332a21-b3e9-54b1-b078-45de8ce4de93",
+        "7d2121b7-abf4-502d-965a-c0bb66d95dcf",
+        "1859c9cd-8fac-5bc0-87aa-58a9ce9c0538",
+        "14c92939-49c0-5e27-93cc-15c4e28c88c6",
+        "6de29ed8-720c-568b-b045-1246f3cd238f",
+        "81c49d3a-5228-5025-a718-8c5469a6e530",
+        "3587fa51-2b69-5901-844b-0b7b02993cd3"
+    ]
+},
+{
+    "title": "Nike Dri-FIT 男子速干足球球衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 599,
+        "discounted": false,
+        "employeePrice": 359,
+        "fullPrice": 599,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "幻影灰白/速度红/银河绿/银河绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/aa5fda9e-b744-4855-9fea-c71a5379f67d/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/ba355dea-3ea4-4ee3-a8e3-c07bf0d9898c/2025-26-%E8%B5%9B%E5%AD%A3%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%A2%E5%9C%BA%E7%90%83%E8%BF%B7%E7%89%88-dri-fit-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E8%B6%B3%E7%90%83%E7%90%83%E8%A1%A3-MtkXW5.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+    ],
+    "sku": [
+        "fb8c1efb-e3a1-5cd1-9539-ef9e8f60a38c",
+        "91973e14-d568-51d5-a348-6407005530a1",
+        "16138676-60fc-533a-8be4-b074ddc90746",
+        "bf0e6fe1-c8e0-5485-bb76-5a9db7bb895d",
+        "5b76186d-9518-58e3-8765-af91e36a0fc7",
+        "e6cda93a-e10b-5f0c-8f07-5bd1848bebdd",
+        "95ec7782-e239-5ded-b9be-870b7d4b2cf3"
+    ]
+},
+{
+    "title": "女子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 899,
+        "discounted": false,
+        "employeePrice": 539,
+        "fullPrice": 899,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "火焰红/淡象牙白/黑/淡象牙白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/91872b9c-375c-484e-8a7b-e83cf2b868ed/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/29243f86-25fd-43f6-a404-067b6c6d0d92/total-90-se-%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-NMHQ9g.png"
+            }
+        },
+        {
+            "colorDescription": "淡象牙白/淡象牙白/黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/c9d2f2b2-a2f7-4707-9b17-d59990cbb8da/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/b98f6a75-ce8b-4072-b7ce-7b2314ec7a5d/total-90-se-%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-NMHQ9g.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "64b0fcc9-4992-56a4-9fbc-820a1d76f39d",
+        "cf94aadd-be59-5178-b44b-27a90ea36101",
+        "ece67763-d31f-5fc6-b4a9-56060b3c09ef",
+        "86c4f9a1-96e5-54f3-a5bf-b9bd2d2b73fa",
+        "84df2417-fffe-58ce-98e5-db7344333c05",
+        "34381139-912d-5f47-8db4-740d5ec2fc56",
+        "b4f7095e-2d43-5a2a-8a01-585783d2e2f2",
+        "a49a25f1-40d3-56b4-94db-8a1f10787161",
+        "ea5e2587-d835-5687-b3eb-86a40e852d9f",
+        "afb2cf8b-1879-5489-a075-660be532ce95",
+        "45fe9fe6-fcae-540d-8bfa-f2d6eca3f046",
+        "3cdf4af7-9c76-59b8-928c-8f23d2f605ef",
+        "3390f3a2-1b31-522a-9f27-a807e252dee9",
+        "c30b9c10-1ffd-527b-84dc-9539e02f68fc",
+        "d23c46f8-db14-55c0-93ed-c4fd15e92f58",
+        "271101b7-c167-58f8-aeb6-025c93a866d2",
+        "a8a6db28-8bef-5af5-a43e-108a3bf5dfc8",
+        "c25489c4-d1dc-5dce-890c-de2ee7d46d3c",
+        "9e2dfa32-343d-5f96-a98e-20fb3a5ee0ec",
+        "7b7525f8-10aa-5082-8e71-e498312f586e",
+        "685e93f2-6d80-5a68-a7f5-6d6468012214",
+        "3213b0c6-cd88-5110-a9af-b2d670b8f2b1"
+    ]
+},
+{
+    "title": "女子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 849,
+        "discounted": false,
+        "employeePrice": 509,
+        "fullPrice": 849,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/白色/金属金/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/62d2fe75-405b-4b51-9727-afa7ae817d27/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/078129cd-1b85-4181-a336-7bf06247abfe/total-90-%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-8b5t3t.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "a1d74740-b213-525b-9ec6-2aa6836dce89",
+        "b04746ac-cc41-5e9b-8fe3-5a154a1c0a7f",
+        "311a5132-2017-590e-bd0c-6118736d722a",
+        "26774538-f778-563e-bb9c-b4f3a170b177",
+        "4cc3c055-d7c8-54b6-a6e2-48dd4199de31",
+        "9dcd792c-5f37-52af-b146-c4a42f7b80eb",
+        "aa390663-e4db-5d1c-85d3-1aaf7f8fa856",
+        "1a8d1f3b-9120-5616-8866-410dee6650c9",
+        "1131762b-0224-5602-927d-56ddd152638a",
+        "ecae8d33-e346-5587-8eb2-3812524803e6",
+        "e2ef58ab-3bde-5b96-b9b5-71edc49f2d0c"
+    ]
+},
+{
+    "title": "男子公路竞速跑步鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 699,
+        "discounted": false,
+        "employeePrice": 419,
+        "fullPrice": 699,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/粉桔/柔黄/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/52ec61b4-3240-4943-9913-7caa1feb1568/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/989c2d82-c3a1-4312-b23c-6e4eaeacd206/zoom-rival-fly-4-%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E7%AB%9E%E9%80%9F%E8%B7%91%E6%AD%A5%E9%9E%8B-x0LxQd.png"
+            }
+        },
+        {
+            "colorDescription": "冰川蓝/泡沫薄荷绿/透明粉/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9f36fe52-127b-4043-a147-c71ef3517111/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/c470eb46-bbd1-427d-a84a-9f2aaeba940f/zoom-rival-fly-4-%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E7%AB%9E%E9%80%9F%E8%B7%91%E6%AD%A5%E9%9E%8B-x0LxQd.png"
+            }
+        },
+        {
+            "colorDescription": "白色/科技紫/乌紫/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/f1a9d813-292f-492a-acc6-ee588f0cc5d6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/6b77e59e-03e1-4b4e-9d44-cd80dd12a7bd/zoom-rival-fly-4-%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E7%AB%9E%E9%80%9F%E8%B7%91%E6%AD%A5%E9%9E%8B-x0LxQd.png"
+            }
+        },
+        {
+            "colorDescription": "亮深红/超级橙/泡沫薄荷绿/黑紫",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/aa86a14d-6b9f-4dae-b70c-b839bc27d2dd/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/cc325526-ef74-4924-aa03-5bd135f9bcd7/zoom-rival-fly-4-%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E7%AB%9E%E9%80%9F%E8%B7%91%E6%AD%A5%E9%9E%8B-x0LxQd.png"
+            }
+        },
+        {
+            "colorDescription": "白色/白金色/薄雾黑蓝/铁架黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/2cbc1c62-b1b3-4daf-a221-1bfc00eee268/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/c895da09-4df0-4874-83a9-0a43539ca91c/zoom-rival-fly-4-%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E7%AB%9E%E9%80%9F%E8%B7%91%E6%AD%A5%E9%9E%8B-x0LxQd.png"
+            }
+        },
+        {
+            "colorDescription": "幻影/波斯紫/波罗的海蓝/空间蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/edc32bab-3719-4b13-b824-6268d782fe07/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/d24fecf4-841b-45b9-83d7-c4f31c7a9396/zoom-rival-fly-4-%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E7%AB%9E%E9%80%9F%E8%B7%91%E6%AD%A5%E9%9E%8B-x0LxQd.png"
+            }
+        }
+    ],
+    "size": [
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "48.5",
+        "49.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "6137d9fe-40cb-5991-afb3-b6b49f4bd406",
+        "df4d147f-0baf-5091-9a7b-beea9000b3d4",
+        "0f21b99a-5027-56a7-a40f-fb287be89765",
+        "62cb4822-f432-5a8d-b3b4-a26e59f9a8fb",
+        "a66b2e0a-2b04-5031-9d50-98a950d99cda",
+        "893dfb54-c730-55a5-8502-6238610267cb",
+        "6c880a4e-d602-5d01-94e5-1a095df1463d",
+        "f1a1079b-dbcf-5177-b88f-79d89295d099",
+        "7039f1cb-82e5-5c54-9c63-882c76a5076b",
+        "662a634e-5e29-50ca-ad4a-3289add59cb5",
+        "4041bbff-7642-5550-95e5-c049ada0cfe2",
+        "4862f505-b3e8-5d78-b56a-eb9838bcf610",
+        "35301436-2a1f-564f-99b5-d466bca12cff",
+        "c65a8851-a396-5b1c-b6af-c9c9df39054c",
+        "77844fb4-3481-5be0-a93b-1565eaceb881",
+        "2387f80c-b729-533b-b6fa-bbfc1e0f7881",
+        "f2a7f1bc-e706-5d04-a3fc-efed94c7182a",
+        "f3217a3f-ecbb-5ef7-bd62-6a0f04c25516",
+        "31087267-be9d-54bd-9b78-fcbc5e11a623",
+        "ab4210a3-ee55-5bdf-b23c-47297ac86d40",
+        "b905d707-6c78-58b8-a8ec-fce8f11d9d6f",
+        "461a0ff6-9f54-5816-88da-930bef9dc257",
+        "f5d3046e-21d2-5b2e-9a4c-3dd34ec4199b",
+        "4a2b9a71-5864-51be-81fe-a8fd9faec1a2",
+        "4a936cb2-2589-57ea-8185-816d0b20732a",
+        "8c7a183a-a851-5217-971e-7cb722821859",
+        "7fcc08fc-226c-5ae8-b735-e69abc5fd9e7",
+        "735fcfc8-1ec6-56a3-babb-2f288bd1decd",
+        "cbd9f0c3-c5b0-5dcd-928a-733ad802d052",
+        "3c5070f0-67a4-5ab1-8e35-e6c3a08b8894",
+        "724781cd-a23f-5aaf-8459-ce43614c2f6a",
+        "d8136a8e-d760-5aed-84b3-23c034f90c77",
+        "658cfd8c-b29d-599b-9bcd-4b02ad3f0f6a",
+        "67e09416-5eac-596a-bd4c-bc5d37eb3ea5",
+        "a84b082d-cb9a-5cbf-a8a1-ffc8f0ba9a25",
+        "847f1e00-ca74-5548-89e6-dea910cb5bac",
+        "9add9d06-5011-5baf-a58b-fd3dfd317dd9",
+        "bd2f769e-1880-5438-89d7-58eefd65a03d",
+        "12493593-cc31-5a86-b63b-281ef1f31a25",
+        "57541958-5736-57f2-804a-a9fd6b06f908",
+        "a11f4564-3532-513d-b41d-205ae5120f7c",
+        "9853c4f3-3808-59ab-b9c4-390e2be41568",
+        "682a26b0-51b2-51c4-a131-6173197c83cd",
+        "6f6ef67b-ff8f-5371-b958-0dd4effde3bb",
+        "13d687c4-45fa-540f-92bb-e8040b5c6147",
+        "51bd1a68-3186-5126-82c6-42c2699a755f",
+        "e3bdd15f-3064-556c-bc96-41653a1ab832",
+        "15d5794f-02ab-5121-854f-b35965c813ab",
+        "9d2b296b-f219-5ebe-8637-8d7d2fa4cd09",
+        "c51b7a7b-ef91-5d9b-962b-18a49f5d2dc4",
+        "d6e6dbf3-fd51-5f6a-95d7-6e200043021d",
+        "4594f1e2-1447-5a9d-8eaa-edeea48bbaea",
+        "2a526e0e-210c-5f9e-b3f7-d8134a424e2f",
+        "2d5081a9-25cf-5786-8ac8-12674007f44b",
+        "d6078b31-bc2e-5f9b-b3cb-ae1405b35282",
+        "728df5c2-f3b8-5db6-8146-5dd9af2159cb",
+        "8c39c588-1a88-5231-9e53-df9e151b7a52",
+        "2d02c73d-3fd7-5092-8b68-55bee32dc972",
+        "1a6826e1-1dc6-5976-bbf5-0c45a757908c",
+        "94e21eef-b8b4-54c3-80cc-c65c263e115e",
+        "01621c0d-cbe2-5d44-9973-d3482f1d31c7",
+        "7cb873e3-3774-5df7-9642-a026fa3100bf",
+        "d926b702-148e-5021-bf51-925dfc69be23",
+        "7a4ef96e-cb05-5930-9f99-83fe6b51a250",
+        "fd3d048a-0b58-575a-a8be-5dec8e61ef02",
+        "3a90de9c-909b-5340-b1a3-b58606ab358b",
+        "1f8839c1-59a8-5167-9ba1-20a7691f320b",
+        "74411900-acf8-536d-a7ff-1623ff5f1b11",
+        "f04dba83-7b62-554f-ab88-6e789a135d0a",
+        "d50103bb-00b2-545a-addd-c7258c70985c",
+        "18e3e1c4-1d4c-5951-8cb0-8df119cbcd1d",
+        "39f47acf-7364-50b9-af1a-eaf2805feac4",
+        "b4add3ed-e8f8-593c-b5f6-ab46979732a1",
+        "a83f4611-0804-531d-86c7-12370db1f149",
+        "8f3c4418-23a2-5570-aeb5-67fc098704df",
+        "82f04ae4-11cb-505f-8589-a3a0134b1e71",
+        "37277fd7-3b86-5285-916b-cb4bb39e1b34",
+        "656858ef-e323-5ad0-ba45-2538ca63a229",
+        "8b56a7d0-ef7f-5eba-8d22-a9b113157067",
+        "f195c98f-a912-5af9-835e-850e1705d812",
+        "b96d4a28-00f7-5205-8aaa-ed4cc7af4ea8",
+        "9bcc3d41-33c4-5157-86e9-17a97db8ac37",
+        "83c22610-5ab3-5dc8-9a9d-3ac55ebc4391",
+        "0b43febe-dcea-51af-9aa7-13d326b136e8",
+        "e1d100d4-3d45-50e3-a24e-c7b9e5866565",
+        "703d7610-946b-598c-92dc-95fd919f6944",
+        "b6bce5cf-6e40-5258-8081-e8e3ad1c0ed2"
+    ]
+},
+{
+    "title": "A'ja Wilson 阿贾·威尔逊大童篮球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 699,
+        "discounted": false,
+        "employeePrice": 419,
+        "fullPrice": 699,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/荧光黄/光辉荧光黄/透明粉",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/8641405b-51ca-4e82-b84f-a987b0c27ab9/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/81368d67-8a55-4b5e-8717-0ed271a96f1d/aone-se-aja-wilson-%E9%98%BF%E8%B4%BE%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A%E5%A4%A7%E7%AB%A5%E7%AF%AE%E7%90%83%E9%9E%8B-7Tl5jq.png"
+            }
+        }
+    ],
+    "size": [
+        "32",
+        "33",
+        "33.5",
+        "34",
+        "35",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40"
+    ],
+    "sku": [
+        "4ae8bbef-2621-582c-bad6-1c52dac129c7",
+        "c60bcc16-b538-561f-a43d-15c73011eccc",
+        "abcc2759-97cb-5c8c-8954-79caa3655968",
+        "eefdd235-8b07-5211-aec6-70f13cc6eeaa",
+        "ac842a86-3058-59f3-ae51-20117f596a8c",
+        "24383792-cd1b-5dd2-98a2-69f42667acd0",
+        "9c8872ee-42b2-58a4-809e-2e9ed1469dc8",
+        "416e2417-efdb-5bd3-853b-08b6a6eac4ff",
+        "e1175bd8-84f6-58d5-b0a4-3a60a1bb025a",
+        "a6151b6e-a611-5848-8e58-f6a0cba220de",
+        "3a1957a2-56c6-5d28-bfeb-153032591739",
+        "56cdd49c-1e89-5146-b45f-13f9d134f846",
+        "607df458-7f06-5ac9-a2c4-578d6fc3a43a"
+    ]
+},
+{
+    "title": "Jordan 舒释鞋幼童运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 499,
+        "discounted": false,
+        "employeePrice": 299,
+        "fullPrice": 499,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/帆白/椰奶色/海星橙",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/af45c7fe-7960-4bb5-947b-1206c23e56da/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/85a5da40-e885-4bba-8df5-c4b4f9370e74/jordan-cmft-era-jordan-%E8%88%92%E9%87%8A%E9%9E%8B%E5%B9%BC%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-J5jQrM.png"
+            }
+        },
+        {
+            "colorDescription": "白色/白色/帆白/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/21d03f62-e464-4da9-bf8a-5aca1cc957d6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/4c5a8077-a61b-4976-ae76-f75709ea8a22/jordan-cmft-era-jordan-%E8%88%92%E9%87%8A%E9%9E%8B%E5%B9%BC%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-J5jQrM.png"
+            }
+        }
+    ],
+    "size": [
+        "28",
+        "29.5",
+        "31",
+        "32",
+        "33.5",
+        "35",
+        "28",
+        "29.5",
+        "31",
+        "32",
+        "33.5",
+        "35"
+    ],
+    "sku": [
+        "f3e3bbcd-9e31-5abc-9b95-b37c72a352e0",
+        "e98739dd-110c-53a4-8415-c77f136aba3e",
+        "d0e37f2f-d85c-52da-8640-fd1ca74e7136",
+        "91e5d755-fe23-573f-a61e-1197fce9b9ce",
+        "94ea30dd-d8ce-5b6a-abe2-4edf94909c12",
+        "83fa0bc1-542d-5cde-925c-dae1b6984a76",
+        "39292b70-5126-5678-90cd-31021791f270",
+        "5eb73232-490a-583c-8d7b-2874e06b5091",
+        "554b5787-4e93-5989-8dcb-b0fd81d5c80f",
+        "129715e2-0597-557a-bb7c-aac2e8b4754c",
+        "6e7b6659-7ab8-5e2b-ad7d-72d06881d2df",
+        "6a67ed4d-b67a-59bc-bfa3-0f6a1e98ab53"
+    ]
+},
+{
+    "title": "男子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 849,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 849,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/挑战红/黑/深藏青",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/58eea56a-0dc2-4566-943e-2cadeb68facc/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/e00c8851-9ade-4f86-9a72-d2b432bb2b7e/total-90-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-D8mc8T.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46"
+    ],
+    "sku": [
+        "c47ac541-3a6e-582b-b47c-d6659c175ff0",
+        "d2a93a60-4f28-5e5a-a142-3ebc264dd289",
+        "74711b96-7a88-5157-a3a4-2daaa06f5042",
+        "cbb9297d-ed61-5433-9871-639a279388db",
+        "b9759e51-5c85-5b3d-b435-b02f56218fba",
+        "6af76233-33f6-52fb-ac1f-d2351a4d3082",
+        "b7be7f54-3e85-591e-8f0c-c82ed7dcf8f9",
+        "05650302-f765-50f9-a7bb-19afda4c4cd2",
+        "27a090b6-507c-5380-951e-19b67faf90b1",
+        "0a6336c8-b0c8-5aca-ba37-ce6b061173aa",
+        "e6386691-f35e-517a-b8bb-64e95b56f0b4",
+        "4e75e447-432d-5b55-b0db-f7db623a2a85"
+    ]
+},
+{
+    "title": "科比大童速干篮球球衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 349,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 349,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/沙堆白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/6ae25bd0-2759-4351-98c9-2aae89de8278/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/c280cb8b-7abb-4ff1-a63a-6516da1d7f39/kobe-%E7%A7%91%E6%AF%94%E5%A4%A7%E7%AB%A5%E9%80%9F%E5%B9%B2%E7%AF%AE%E7%90%83%E7%90%83%E8%A1%A3-ljbkDX.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "sku": [
+        "c0b70263-2ae9-56d7-8abd-e976a0fd5130",
+        "22cbae1f-74c7-5d96-9f75-e4afa92e624e",
+        "63507101-e172-5109-a484-2142faa0de25",
+        "a018e8cc-3d26-5a38-8ecb-e38f0d2b38e9",
+        "697adf62-f96c-5967-badb-39147b6596ab"
+    ]
+},
+{
+    "title": "大童运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 699,
+        "discounted": false,
+        "employeePrice": 419,
+        "fullPrice": 699,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "芝麻棕/火焰红/白色/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9385939e-e4dc-416d-a5d1-5630ce9c564f/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/e78fe1b1-8e27-4885-8fa1-9419408ea6cf/air-jordan-1-low-se-%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-gNk0Mq.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "40"
+    ],
+    "sku": [
+        "1afa0829-a847-5fc5-91f8-3cfbeb70e16e",
+        "d32ff807-872b-5468-a3a8-d247ac495c24",
+        "fd816e77-0978-5055-b71b-22cd47d662c2",
+        "80712885-22de-572b-929f-6d661b0ad863",
+        "d749750b-96f4-55c5-8f29-ddee2b6b6d60",
+        "4b700c1b-e456-56de-865c-aaf133aa5250",
+        "bda964d6-135d-5316-8ec1-02171ed75d37"
+    ]
+},
+{
+    "title": "女子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 749,
+        "discounted": false,
+        "employeePrice": 449,
+        "fullPrice": 749,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/橡皮中褐/动物群棕",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/992e7932-3e5e-4313-982e-223d760d3a49/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/547a27cf-9934-4385-a1f8-9af4fcb9c4d0/ld-1000-se-%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-1JLx4z.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "8fb1aef8-7617-55bc-945b-fd9befc20395",
+        "f51f2801-b8fc-5987-b8e3-2dfb837f690b",
+        "dfeec911-6e80-5bc1-b3a4-8b91082ab492",
+        "09f6684b-745d-5d62-a9ae-01fa1ed0d89d",
+        "d2c839ea-1e81-5523-bc0d-0a23f1b08d7f",
+        "2ab19845-00e3-50f2-87fa-c8943bc02672",
+        "1866a247-45a3-5f2a-8bcb-f71699e5e30e",
+        "5e7a1556-f56b-5bf9-87c4-64050ac8e020",
+        "79e5aaac-45c7-521b-b615-cae4f70dfe33",
+        "eeed0729-9233-5e22-85b4-b2b8c22c3cb1",
+        "531161f1-fc0e-58b5-a54e-5ca9a8c1cefc"
+    ]
+},
+{
+    "title": "女子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 749,
+        "discounted": false,
+        "employeePrice": 449,
+        "fullPrice": 749,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "庭紫/帆白/石膏色/冰川蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9fb48aea-8016-4d29-8972-1cbf17d8560e/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/ff5b984b-e274-4575-ade3-3bd45587b5e5/ld-1000-se-%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-77LqL2.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "bf28d91c-346b-55b3-b98b-de45d8fd87f5",
+        "f8cb6adf-3076-5100-b360-24ba388689aa",
+        "c5f59f13-6b9e-531b-85e6-a44a42aa390c",
+        "b87cfdab-1210-5d39-82d4-371678e7ca6f",
+        "825101a5-6407-55da-93c4-52f5359672b8",
+        "6244adb4-4fd3-551f-86f4-85b356f56e94",
+        "fe4f611b-0ad3-5372-8a86-a8ba3aaba39e",
+        "18b4a1e6-e078-5e2e-b960-19184f321467",
+        "a2fe25e1-b2ee-57d5-8629-4f62ae2315fe",
+        "2ec8fe50-a00d-50ed-ba57-e8b54c07c8bd",
+        "6d575811-6423-5199-8f7e-128eb4275131"
+    ]
+},
+{
+    "title": "Dri-FIT ADV 菲斯·基普耶贡女子速干短款跑步背心",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 549,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 549,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "灯草紫红/鲜亮勃艮第酒红/紫菀粉/惊喜绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/71178e5f-1b78-4579-948d-62c668ddeeed/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/d1656dda-2c25-406b-9795-d0e284bf1292/aeroswift-faith-kipyegon-dri-fit-adv-%E8%8F%B2%E6%96%AF%C2%B7%E5%9F%BA%E6%99%AE%E8%80%B6%E8%B4%A1%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E7%9F%AD%E6%AC%BE%E8%B7%91%E6%AD%A5%E8%83%8C%E5%BF%83-dN9XqV.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "sku": [
+        "f370956f-aeed-5bd9-9c03-7ef5a5d8ab43",
+        "029824e9-119a-51ba-bf3f-d1600dddfd35",
+        "fe671b70-f6be-57ef-a8b9-7c0b2370fc08",
+        "4259bf14-d478-5c8b-873b-cdcd843116e4",
+        "cb5ccea5-1c2c-5b1f-8777-bbc12b48faaa"
+    ]
+},
+{
+    "title": "Dri-FIT ADV 菲斯·基普耶贡女子速干中腰跑步短裤（含衬裤）",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 499,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 499,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "灯草紫红/鲜亮勃艮第酒红/紫菀粉/惊喜绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/33452db1-092b-4cd0-bd49-6599d881a971/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/dc68179d-2066-4438-96d0-075f92c397a5/aeroswift-faith-kipyegon-dri-fit-adv-%E8%8F%B2%E6%96%AF%C2%B7%E5%9F%BA%E6%99%AE%E8%80%B6%E8%B4%A1%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E4%B8%AD%E8%85%B0%E8%B7%91%E6%AD%A5%E7%9F%AD%E8%A3%A4%EF%BC%88%E5%90%AB%E8%A1%AC%E8%A3%A4%EF%BC%89-k7PQBC.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "sku": [
+        "78672fea-f77d-5ae1-8cdc-353a76f36414",
+        "79ec2520-301f-5566-ac9d-f677a1822e80",
+        "07201ff2-8810-5c2d-9b63-d31fadd66146",
+        "ad878e10-1f9f-5025-be43-ed674e639a6f",
+        "0848233c-950f-5b70-874e-a391c1475d14"
+    ]
+},
+{
+    "title": "男/女篮球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 799,
+        "discounted": false,
+        "employeePrice": 479,
+        "fullPrice": 799,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "浅骨色/帆白/白色/铁灰",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/bab8de25-bc37-4d4a-856b-53d136170d9a/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/78d37f7e-62ba-40af-94d1-17a4fc1d948f/g-t-cut-academy-ep-%E7%94%B7-%E5%A5%B3%E7%AF%AE%E7%90%83%E9%9E%8B-Z7GQ61.png"
+            }
+        },
+        {
+            "colorDescription": "黑/黑/石膏色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/85b0c60d-dce2-4a90-a103-aad516bb2cd3/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/983a27bb-4bbe-4092-a09c-ff5d978183aa/g-t-cut-academy-ep-%E7%94%B7-%E5%A5%B3%E7%AF%AE%E7%90%83%E9%9E%8B-Z7GQ61.png"
+            }
+        },
+        {
+            "colorDescription": "冰川蓝/白色/光子灰/金属银",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a3d9b571-a484-455d-b7a4-7de69b81033d/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/01dc95eb-4dbe-415f-ae59-f51de94da579/g-t-cut-academy-ep-%E7%94%B7-%E5%A5%B3%E7%AF%AE%E7%90%83%E9%9E%8B-Z7GQ61.png"
+            }
+        },
+        {
+            "colorDescription": "白色/漂白宝石绿/黑/冲击绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a481b1d7-49d8-4120-919a-d5fc1b045edb/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/88d2771c-9f94-41cf-916c-55fc5144d2f7/g-t-cut-academy-ep-%E7%94%B7-%E5%A5%B3%E7%AF%AE%E7%90%83%E9%9E%8B-Z7GQ61.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "c66af019-a86b-5a44-b0d9-7d14cca08aaa",
+        "07fcc063-b05b-5964-b9f3-b940c32168e8",
+        "1e76c4fc-6094-537b-b7bd-d1ff4f89c10f",
+        "488a0da1-7077-54ae-b31d-3f13f628474f",
+        "44870f00-ef5e-5808-8e1a-08caf640eb16",
+        "589d9c42-6e75-55e7-8a1c-4911e0842236",
+        "1ac5f87d-dfe1-5e4b-8bfe-5b09fb0f747a",
+        "5a422f00-6980-52a7-8df8-c0c622ed6537",
+        "642602fc-c188-5f4f-bd75-7f271e510bca",
+        "a901f632-042f-5f9a-bf44-56fbcaa9f206",
+        "97af7bd0-b66b-535c-850d-772c4a437afb",
+        "bc6a4c89-bd63-5a2a-bd62-340fefd72dae",
+        "25b271c5-0e5f-5065-8f31-aa06dfc2aa83",
+        "bf402ba9-fb1d-5a1d-8367-29fc7ce470ce",
+        "b6503af5-8147-59d0-a349-7ea066422874",
+        "ef0613ef-7628-5974-bb7c-6bdbf7253046",
+        "1ea54b9e-3678-5f9b-adc4-aa2c82613210",
+        "9159d10d-4efe-56fe-9572-53e3854b1ac8",
+        "42bc19ef-22dc-5e9e-aaa6-4c8c47c860a1",
+        "aaf35211-b450-5e0a-ae8c-11640540a487",
+        "eb92f84d-a0e0-5b60-99d3-016adc58291e",
+        "49b4b480-905e-5c66-90de-8adc2b47ed70",
+        "267ef6fd-6e39-560b-bb0f-f727104888c1",
+        "c74e4764-93f6-5615-8f5f-2088e965ff11",
+        "b51533f4-b00a-5dd5-8754-66fbac113a09",
+        "7b169f38-a834-5968-bded-a0ce8b6ab776",
+        "27472c3c-2fa2-5b5f-a8dc-27693c95f528",
+        "4b611042-b6c1-5900-b987-bc566ec21a0a",
+        "880f7d84-4e1e-531b-a401-83dc40e57270",
+        "97a42dfe-7864-5566-b748-0230722e4866",
+        "d7c92551-b0ae-5959-8f48-3d81659789a3",
+        "c80d85b7-6f1e-5815-aa52-244f39087f20",
+        "7bd437f4-b011-59e3-89fa-0a3ff4b4237e",
+        "d90874dd-25b1-59b1-819d-856a8c25fc7a",
+        "9ee8c1e4-c200-55ca-8058-50cae496148c",
+        "e873d6fa-a77a-59a9-bb8b-3c744f744e83",
+        "80aaf6a6-25c2-5003-aadd-ee66d68a8ab6",
+        "0109e7b6-a4df-5daf-a712-4fb91711e821",
+        "0c27ede8-3a10-5666-a227-8df043d550e1",
+        "b37991e1-adf6-5608-a207-f5ca99bae1dc",
+        "3fe4055a-56bd-5975-9320-61e394e7aef6",
+        "47c4f34b-5478-5df8-bb87-12ec74b8dc55",
+        "bcf9c9f8-432c-57c6-85c0-01bc1e025c88",
+        "454c4c9d-fc0e-5a67-905a-09bfb44e2135",
+        "9b5f6af3-2c12-51d5-9c27-af8658358932",
+        "566d1d5a-68ee-516b-9135-79f983779108",
+        "a0445c48-5c4c-578d-a510-3e2493a9aa76",
+        "b096cebc-3926-56ed-9cb2-e312b16d9f72",
+        "e82a8c27-0cd7-537b-94b4-64b1ebbeb3a4",
+        "5d3b8535-2920-5f51-b06e-c24c581d6f3b",
+        "2aa4c104-0331-5036-ba6a-ebc6900e434e",
+        "b6ab07e8-a429-5633-9a31-df2e21d9c68e"
+    ]
+},
+{
+    "title": "女子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 749,
+        "discounted": false,
+        "employeePrice": 449,
+        "fullPrice": 749,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "余烬红/帆白/石膏色/张扬粉",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/6b34152e-50ba-4472-8982-3f3ecdd6537a/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/cfd4b600-265c-4ebc-b0ee-08f664670fe8/ld-1000-se-%E5%A5%B3%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-j9N98N.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "d7a777aa-3c3b-5f41-ab5f-79ba50197fc8",
+        "7f412081-1a11-5710-ba3c-aa8bd8d6923b",
+        "02cd6987-4b0f-52ec-acfb-8accf83428c2",
+        "4abdb448-8bba-5476-959f-9ca3ddc3866d",
+        "87d824eb-438f-52c5-a58a-3e35e52a3184",
+        "81b7ec56-7a5b-522b-a059-d70be5f41244",
+        "28869713-e4d1-5c2b-97a7-64953973b34e",
+        "e2c6224d-84d2-5d82-904b-0ada006e640b",
+        "e44964cc-39e0-54bc-8027-b74fd4c19c65",
+        "6cd61a2a-6130-53d8-a121-b072acd117b4",
+        "94a140d7-6572-59c3-8494-0ced86911ced"
+    ]
+},
+{
+    "title": "男子空军一号运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 849,
+        "discounted": false,
+        "employeePrice": 509,
+        "fullPrice": 849,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "象牙白/马鞍褐",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/4eee662b-41b8-411b-a332-de94956e0f94/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/42aaa6f0-a0a0-44d6-aa7b-40aa4c648d5a/air-force-1-07-lv8-%E7%94%B7%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-1Q3zqX.png"
+            }
+        },
+        {
+            "colorDescription": "浅卡其/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/aaaf4507-804d-49d8-8fdc-66e2a75bc144/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/6e32184d-479b-4a1d-a917-d3ecbdc69d5b/air-force-1-07-lv8-%E7%94%B7%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-kq1HBx.png"
+            }
+        },
+        {
+            "colorDescription": "白色/深宝蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/c3d437a4-3537-4cf2-968e-271fadd8f702/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/5244a1d9-f214-4804-86ac-25bd5b5572ae/air-force-1-07-lv8-%E7%94%B7%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-kq1HBx.png"
+            }
+        },
+        {
+            "colorDescription": "黑/沙漠黄褐",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/5718b9c3-c4f6-4fe6-92be-20836bfae6e6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/f507b790-33d8-4ab0-a89b-9449f17662a0/air-force-1-07-lv8-%E7%94%B7%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-dNqWFv.png"
+            }
+        },
+        {
+            "colorDescription": "黑/绣球花紫",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/e348f7c3-aaf9-4b87-95c9-3e8cbc4acbb7/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/fafc82d3-6674-4684-a29f-fcf3a8aa1392/air-force-1-07-lv8-%E7%94%B7%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-kq1HBx.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46"
+    ],
+    "sku": [
+        "fb8d653e-2a80-5964-83fc-bb8ed6f7e9ed",
+        "f134d4e6-b485-549d-b03f-789a5c1e3489",
+        "096824d1-2289-5792-ba43-2a227301dabd",
+        "775ce84c-5588-55ad-9590-35bac6b9d6c2",
+        "1f83f12c-9907-5c13-a313-d732ab56fd06",
+        "8211ca9c-12d4-5998-b93b-b15f463b280d",
+        "04d88e96-684e-5c48-8cef-e3c2e99eae6f",
+        "a71a42bc-42fa-53ee-9c3f-9449d4a81f66",
+        "10f59e1c-48c7-58c1-8d7b-9d5cb3bc9f51",
+        "6d832fad-f7a3-5da4-b31e-a67022ab502c",
+        "8bb29719-e785-5f7c-847b-7cbfa007abbe",
+        "e24b1a24-b153-5679-b3a4-b18d447c9ca2",
+        "7193a88e-e3c3-526f-9a9c-a4257a31763a",
+        "71ad50d7-9c9a-5a13-a36b-069e7097944e",
+        "9fbebc2d-5e92-52c2-b778-90f1f9a7e4f2",
+        "bee64a5f-32c1-5369-a2a9-e0f5af5a0fee",
+        "fe0ea4e8-b1a8-54a1-a1eb-4b16f623a9b7",
+        "60581396-2726-5e7e-987b-3b894fe23483",
+        "d8ae59a0-751b-5f97-a4a9-b03bbd26879d",
+        "85bf1020-8cb8-5ae7-b636-d22fb91bb710",
+        "af516c98-4d5f-5521-babd-82113ea517be",
+        "ff79f423-55ae-5b21-93fc-abe6f0cce983",
+        "0c000c38-1d9f-5e00-8045-35f8ce3d07ae",
+        "f31f93bc-ca16-58f2-bf96-36eb9bc06bfb",
+        "5c8f0ae2-6e74-52d1-a575-979036adb15d",
+        "d0db8de3-0129-5c09-9643-66a1931cf936",
+        "1948140f-9c7c-5ba8-b503-251995ee9085",
+        "a2aab677-1d48-525d-8dc0-308a79b47415",
+        "7f92fb78-3174-553f-98aa-72d2d4b2578d",
+        "8e8caa5d-480f-5423-8ade-b563c0d3deaf",
+        "824544d3-3dce-56ec-adf8-ebfe3282498b",
+        "6d8a1d94-e076-56c2-9404-0872dbd4b62e",
+        "36e3ab15-fd92-5309-8165-7638264e229e",
+        "cd5efd1c-de68-5c36-af10-fa4224f051ad",
+        "659709a9-aba9-536d-81d3-c5490e24fbe1",
+        "c0b2460c-3fef-58ac-818e-908fc24602df",
+        "361f9689-3859-56fc-9459-b3a3b61be301",
+        "d8638a65-48da-5f50-9d1d-8a890cee2f66",
+        "0093e2a1-9e91-506c-bfdc-2e9e5d8460ba",
+        "b442cddc-6cea-5fee-a7c9-0c31dfa5433e",
+        "28bd63b1-d155-5f02-8af8-9c1f5cd6c47f",
+        "9407479a-278f-5649-8116-92c7590aa220",
+        "6c0a15c7-4247-5ba7-8fe8-f1f71a854218",
+        "4169c8d5-3bcd-5c32-b710-bd2630e2cca6",
+        "019c5ad0-796c-5843-80a9-70cf7fe3f9f5",
+        "8f83c821-4bdf-5af6-a446-be05b2ac1435",
+        "c6455c01-9d4a-529b-a4e5-671072d75c88",
+        "1b4d3cba-0fea-57df-9571-1a503e9b269e",
+        "38b9be48-6c01-5c2b-9f85-41c925b9a605",
+        "49e6cccc-389a-500b-80a3-84d3bebda5f8",
+        "40bdb844-cfd1-54c4-bc4b-c7d83cd0b775",
+        "c325229b-7d27-5b11-942d-12233b15a517",
+        "90bb5436-e56a-5a1b-8534-64db19c51768",
+        "a41bd401-77bc-59a0-891e-b09eeac90481",
+        "ed537a27-54cf-5ca3-b735-7593924b48d7",
+        "76c03929-296a-5a88-be37-71a4d3a1d99e",
+        "87f91dc2-6481-560a-bb94-6c7bdd50a8f9",
+        "6906decd-33b8-57dc-942f-aaa92456b04d",
+        "e5ba5edc-4ba2-50ce-9a3c-76017b7b71b9",
+        "04c12a6d-5419-5395-88a5-29d72ec16452"
+    ]
+},
+{
+    "title": "耐克飞马男子公路跑步鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 949,
+        "discounted": false,
+        "employeePrice": 569,
+        "fullPrice": 949,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白金色/浅军械蓝/灰石板蓝/煤黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9b4986eb-c9c3-47c6-ab7f-db0fe7e6341a/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/b411a460-07ed-45aa-9eb6-5c2be4d05580/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-nCXvDF.png"
+            }
+        },
+        {
+            "colorDescription": "黑/冷灰/白色/仙人掌绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/d7df4815-2375-4608-8d2a-1772a7d7ad03/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/0e82c3ea-ac22-4a5f-9003-1225fec8220b/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-SXxQbg.png"
+            }
+        },
+        {
+            "colorDescription": "大学红/浅深红/山峰白/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/0ea066a4-dbb2-4542-ae22-0a9622e9ef89/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/368ea228-c074-4140-9cb9-0ebbe8ec179f/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-RxprBj.png"
+            }
+        },
+        {
+            "colorDescription": "黑/煤黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/f14e8f51-b56a-4e57-8019-95415b627784/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/8312e20d-5b44-4b90-a355-1f8397f74d1a/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-RxprBj.png"
+            }
+        },
+        {
+            "colorDescription": "帆白/紫蓝/狼灰/煤黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/fcdcf1ba-1a2e-4f4e-9de0-e3086b6ca105/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/58107a36-71f1-432d-b1fc-585ee9dec7c0/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-H5RK1v.png"
+            }
+        },
+        {
+            "colorDescription": "幻影/足球灰/深夜蓝/空间蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/7b7e2654-7507-4bfc-a6de-7e698c6af3a6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/fc874f3b-4556-4971-931f-79d1b5b4604e/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-x3c6bF.png"
+            }
+        },
+        {
+            "colorDescription": "淡象牙白/亮石灰色/浅橄榄绿灰色/红杉绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a44f9888-4d9f-4150-b308-0be226ed02c4/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/bd85a4b3-e00b-463f-8d9e-2a333f975e55/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-RxprBj.png"
+            }
+        },
+        {
+            "colorDescription": "白色/微绿/亮深红/金属银",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/3540a57e-8cf9-458a-8a03-44bab0bcf5ee/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/4c051ae0-81a2-445c-a18c-128310c2e237/pegasus-41-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-hMj0Bc.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "48.5",
+        "49.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "1da70ff9-6c8a-55a9-b363-198121a29a11",
+        "f9b8c1c4-d382-53ed-9140-41f75ea28681",
+        "f7bcf65e-5e27-56a9-8195-f895a83b3ada",
+        "fc9b51d8-9dba-5404-b3f9-5baed3717873",
+        "e7eafdd0-1286-5b71-89c7-8119488311e4",
+        "5e5c7837-d4f8-5a0c-82ea-ad8d745c1cdd",
+        "78b13e2b-b62c-58a2-be12-15896b720dac",
+        "e85b52d9-b570-51b3-a60d-d90de1208afe",
+        "9c60c835-25f7-5a2f-afb7-1478a08126a5",
+        "81625bf5-2f4c-58ab-9efc-f01046c3af23",
+        "174ce225-b9c9-5f56-8987-09eea28ef22b",
+        "ec8f6637-4443-5582-a473-15f71b8cf764",
+        "d397fe42-be5a-58d2-b3b6-abc03843d450",
+        "bd1c16ee-79a2-5a54-86b5-19479cf4f448",
+        "5cbdc4f9-0dde-526d-a779-0ed5b65f632b",
+        "f833179f-56bc-569c-b773-5bb94afbe831",
+        "698e367b-a1f1-5d29-9353-81b562cfd7ab",
+        "e6d47bde-35d4-5bf9-bb7c-214df9e7a257",
+        "d7fe0d90-ca6c-5a14-a258-d31cdf29c7d6",
+        "69c5cd29-7a0e-5ec3-ac6b-c5c0cc7427b9",
+        "c8d15e9e-7e42-53ed-a58d-d41dc0f27e12",
+        "46d1a4f6-d535-5387-8885-05a09717f919",
+        "bf374c43-1465-53db-81e1-38ce4a13957e",
+        "c9974aeb-e83e-51c6-b040-7bca06bda69a",
+        "fc829f70-8347-584a-b81f-26a4c5cb3641",
+        "306e1acf-aaa2-5796-b716-5d8c85037e4f",
+        "8a7b0671-49dd-59c0-9cd3-7b0b5744f058",
+        "eaedf2f0-1cf8-5d49-b021-24bcc1d9c02f",
+        "18c9876f-7060-57ea-a803-295cb18e4280",
+        "b7b79b83-cfc6-5052-95d9-753a83249392",
+        "fa2922d1-8c4b-5e20-a9b4-16795ded49d6",
+        "861e9cc3-eaf5-532a-994a-dcb4371f8fc4",
+        "213d43f3-1920-5b0f-97c1-5fb31f4c7069",
+        "efe6b954-c553-55c6-9fde-af1f2e6f73a1",
+        "0e93a21f-9fed-5b98-ba0f-5afd7775e8f3",
+        "40e53c6d-93b7-5ed1-a746-76063e9580b5",
+        "554aa57b-8373-5b2b-a35c-2a8b224dd5d1",
+        "34cce21a-a6bd-5e51-8529-9fe7a444a1c5",
+        "4453ab5b-3e9d-566b-8c50-edada85baeab",
+        "cc273bea-365a-5950-a9e3-51d9e1be0b09",
+        "3b9284c0-ad8d-5527-853c-6e6aad9e1580",
+        "11b418c7-5388-5fb6-b949-2a6c18f7ffc9",
+        "cea3a8ec-c214-532a-9d37-86620f3fe633",
+        "ccfeedb8-643d-5070-b9bd-90385ad1be5a",
+        "b8ab2a6d-5364-569c-9e18-081df36ede99",
+        "905968dd-245c-501b-9040-1811a505c5fc",
+        "ac4f530c-f0ad-53a7-8932-c896867da333",
+        "3270c84b-c4b1-5670-a582-a0d4cf066fc3",
+        "fd3b2038-3e15-502d-9ed8-869bf1a29822",
+        "1ec79a21-a2d4-5e47-8cb7-38fb82b4ab86",
+        "1a87d531-908f-59b1-a380-f870321abfcb",
+        "6bc4a21f-5ce7-5080-bf37-dab4599d9b6d",
+        "80bf613f-eafd-50dd-9ef5-263be45f8fac",
+        "4ec4d59e-9a01-5d1a-9a79-10137915218b",
+        "aae47513-dc36-5c4d-b11a-0c5e7881aaba",
+        "8526f16f-decc-5e38-8135-82747e3eba7f",
+        "aeb057b0-501c-5dbc-901d-d000c6983655",
+        "a1c079a9-03bd-5692-9218-35f1aa00e922",
+        "92c064de-2ffd-577a-82fc-0e5248854d11",
+        "ac949312-9cde-5709-bcd0-387fad768915",
+        "dec19373-b920-5bba-b658-2e3201534306",
+        "3285518f-cb2f-525c-bc23-951aaaf6bbb4",
+        "47d5a098-9f30-57b0-b642-cb485f4f6534",
+        "840b2200-946d-5f6e-89ca-f7491338eb82",
+        "91d8b79e-3162-5251-a4ea-182bcbc2bba3",
+        "8e7dea47-0edf-51fa-942e-03156610f7ee",
+        "66649e3f-9048-5011-98b4-d42947e42cdb",
+        "beaf4d5e-b33e-5f61-ad43-17d4856cc467",
+        "da41f543-94fd-54a2-851f-67a7e5a644c9",
+        "c5f630b4-9f63-5b73-8e2e-e86888ca089a",
+        "f1abaaec-cb64-5988-9fe6-86c9a8686991",
+        "9409edb9-ba43-5b26-b5c1-47df3560ade2",
+        "b39c2eb5-1432-5ec2-aa17-2814ddc5d4ac",
+        "60ce7d7d-18d5-5262-abab-8046f448ef84",
+        "191d19b8-69fc-5d48-a7e2-e21ca2d89bfb",
+        "4c6e28e0-0ad9-58e3-9b51-c14425e7cf48",
+        "40fdd683-27e2-5be4-8eff-24b5414d606f",
+        "a8f06fa5-3a3c-5cc0-99bc-3bd2888d7938",
+        "4cfcf2ed-91c0-5957-881a-a69ffbe917f9",
+        "0f8920ec-1be2-500f-bac4-23736f3b1143",
+        "a08a6768-f8c9-582a-a9a7-01b3d9132ddc",
+        "3fc7d63f-66ab-574f-b3fe-e67f8621c33e",
+        "13c5c37c-7373-5ade-a511-c016a4630a0e",
+        "0d3872b2-927e-5831-9da9-145144b78aaf",
+        "22af526e-72d1-5cf0-87c7-ab77135e4442",
+        "46736029-f001-5132-bbe0-27e9d0ce306d",
+        "dc90abdd-2087-5c95-902d-170584ab4e6e",
+        "b062d758-a3b5-5ea2-a6c0-4622adb15df6",
+        "70576788-4054-5c12-a717-d8225023b039",
+        "abce42f0-3a47-5dd0-bba4-2e8d499bb0f0",
+        "c3f5fbe2-c10f-5d5c-a758-736f5ba4f389",
+        "7912a3d1-b378-5a69-9f81-65e92e02ddc1",
+        "5f288526-2bf6-5317-8d68-ca615ffd1ac6",
+        "c30ad933-7d3e-59f8-b8ab-cee0fd4a0751",
+        "d9a24458-bbae-5b76-be2e-1142f68e79aa",
+        "002bf6c1-b588-57f9-9efd-654fff5ce0fe",
+        "41530052-f35e-552a-848f-02587c8c3850",
+        "dda297de-8943-5db7-a4c5-0048e2db808a",
+        "ac161a83-cfaa-5637-b57c-f1f729b9f332",
+        "36a4fa7c-e0f8-5457-8f1f-42571d14b9e3",
+        "0e02e1f0-6a0d-53b5-9548-98b2bfcaaadf",
+        "1d5e803c-6304-5682-9102-9857bed0ee32",
+        "41b090b6-4a20-52ba-b20a-358fcfce1e69",
+        "95a7d78f-3262-5c98-9c94-232748d1fc5a",
+        "52d847ed-55ab-5089-b94e-1d61be08781a",
+        "4dc68fd3-4661-5c55-b4f2-bc7626071894"
+    ]
+},
+{
+    "title": "男子硬地球场网球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 899,
+        "discounted": false,
+        "employeePrice": 539,
+        "fullPrice": 899,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/深藏青/深藏青",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/be7447aa-b71a-4e0e-9a11-3aac365e215c/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/6a5b1d10-b06d-47bd-8ba3-e2621d931c80/vapor-pro-3-premium-%E7%94%B7%E5%AD%90%E7%A1%AC%E5%9C%B0%E7%90%83%E5%9C%BA%E7%BD%91%E7%90%83%E9%9E%8B-7cdshv.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46"
+    ],
+    "sku": [
+        "19e03fe3-71b0-521f-8f2c-c84d99d1681f",
+        "c8c49521-f848-50cb-950f-4b387dc78ca9",
+        "9a05ba33-31ea-519b-ab4d-4a0d4ebe4805",
+        "1da66dc9-8044-58fc-9171-7e72871f3eda",
+        "258a2d0b-f6d4-5e53-8760-5227a07f22bd",
+        "863343e5-1ce6-5c01-9060-4803ca976818",
+        "52f0bfbf-9d40-5dec-a57f-38815ae66e79",
+        "38c0adf5-a56a-5ec9-ae37-b85d4174c247",
+        "2e346109-3e32-5cbb-ac27-92dbc4f39b16",
+        "06ea468f-d3b6-53bc-8701-af3295bde0a1",
+        "59a4cce7-f4bf-5603-afd5-7c00694ebfe1",
+        "5b7a986d-bd4e-5ca7-8e96-e7844668763d"
+    ]
+},
+{
+    "title": "男子硬地球场网球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1249,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 1249,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/深藏青/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9256ad87-180c-4192-9709-458dfe10be46/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/4ca7ef0a-758d-4a12-a956-e8c5d9e1c91b/vapor-12-%E7%94%B7%E5%AD%90%E7%A1%AC%E5%9C%B0%E7%90%83%E5%9C%BA%E7%BD%91%E7%90%83%E9%9E%8B-dpFMRJ.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46"
+    ],
+    "sku": [
+        "06bfcd25-ee8e-5ec6-8616-10ed45b3538f",
+        "e03ee756-c879-514a-b8d2-c5a327318b42",
+        "64a31296-54f6-59bd-957e-a4393f710e45",
+        "6281ccae-6cd2-51a8-a1bf-04d6155c89f7",
+        "5b29b416-5344-537c-b2d1-82d17b54e3c8",
+        "bfbf2774-ed77-5cac-88b6-b94385bce200",
+        "54b5640b-4c6a-571b-af4a-27f9d8ed88fb",
+        "63a5e1de-35f1-5e8f-813f-332549ae99af",
+        "a70385d8-a476-52ba-b661-5e573e62bd57",
+        "cff88b11-6ab9-5d61-8583-a20e4cdc18b4",
+        "64a02b13-aa3e-527a-95f3-1071b0abfa73",
+        "d383b7f8-2486-513e-8822-73fe210f3b94"
+    ]
+},
+{
+    "title": "男子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 799,
+        "discounted": false,
+        "employeePrice": 479,
+        "fullPrice": 799,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "烟灰蓝/金属银/灰石板蓝/珍珠灰",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/631515ca-2330-4e6f-b68e-dc6c5ec099d0/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/6a54593d-f822-4059-bbe6-bc808b8efdcc/v5-rnr-se-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-RG6TTZ.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "6a2c0e94-46eb-5da0-a094-d3b06d32dd29",
+        "a772f7e3-e06f-5bda-915d-d2be2fd8de0b",
+        "0084bdef-ea89-5e53-9052-92427f9e337b",
+        "af15f9fc-37c3-52da-99ff-e43a014d8ee9",
+        "495f4486-6aef-5f98-bc1d-993ea7783417",
+        "80a13d83-0211-5e75-ad80-69f5db4428c9",
+        "9db3f4eb-9db9-578c-bf64-dead1224f17f",
+        "9907d8fc-7240-576c-be98-0331273b681a",
+        "7a56d3f1-d13a-5cfc-be3a-0373b38a6244",
+        "583d48dc-da7e-5d64-b118-01409f5580f6",
+        "8cff70db-3dea-5d20-85b3-7d6215af8e9c",
+        "89c7a0cb-f254-5b38-88e2-b04fb7278477",
+        "8d398b1d-acfc-5e49-87a1-8d2b47a42157"
+    ]
+},
+{
+    "title": "Dri-FIT 男子速干短袖足球球衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 549,
+        "discounted": false,
+        "employeePrice": 329,
+        "fullPrice": 549,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "帆白/黑/黑/健身红",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/e397cb03-45ec-4c30-899c-f7228bae17e7/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/ac55150a-f25c-49f6-877c-9fd118050375/total-90-dri-fit-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E7%9F%AD%E8%A2%96%E8%B6%B3%E7%90%83%E7%90%83%E8%A1%A3-cWC8c5.png"
+            }
+        },
+        {
+            "colorDescription": "铝蓝/帆白/帆白/空间蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/1f1c50a9-116a-44e5-a4eb-275b59f6b4ed/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/69fd3372-24fa-41d9-8e95-60655257bdfb/total-90-dri-fit-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E7%9F%AD%E8%A2%96%E8%B6%B3%E7%90%83%E7%90%83%E8%A1%A3-cWC8c5.png"
+            }
+        }
+    ],
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sku": [
+        "74245e3f-aee0-5703-a1fa-486f5408c360",
+        "6a502942-760e-5f77-b7dc-63c74d67d263",
+        "829233f7-4704-5bd0-ac5d-138af4e6ac00",
+        "73567245-8f84-586b-a176-eaf67b679067",
+        "3e1889da-befb-5abd-bf66-f91ad7b18778",
+        "c67a8e64-bcff-5a21-8c4e-8c531a7e9e23",
+        "5bb72be2-50c6-52c0-8304-352bb755695e",
+        "7c5a743a-d542-5383-a80c-901ca5ea9e68",
+        "5c9f6743-e890-5936-9cee-f482ab668b3e",
+        "edfe328c-3161-56cc-9d54-526bca844913"
+    ]
+},
+{
+    "title": "女子气柱运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1199,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 1199,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/金属赭/亮橘/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/wj5ju8ralfciojw5agrv/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/f9j2xztqk9bn0ixns8ne/shox-tl-%E5%A5%B3%E5%AD%90%E6%B0%94%E6%9F%B1%E8%BF%90%E5%8A%A8%E9%9E%8B-9Fm14l.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "eb58b8e5-3d29-586e-86df-ec055c96346e",
+        "8a157ef6-83e5-5994-9380-779f57089b5e",
+        "9186e018-62f8-5cd6-bc33-24ed88281ec3",
+        "0dd3e3eb-acc6-5a2b-a6a4-e323f7186be2",
+        "ca6c3b9f-4932-578e-89d6-2f7858c31315",
+        "ebec712f-b60d-5d00-9316-42eca4db98c2",
+        "e4c8eb62-0a5b-53b2-bf2a-f56a136dc98b",
+        "f22f6312-001a-52cb-a1ea-f0d56e72265b",
+        "9bcc85ac-5254-5af5-a29d-66ee8b7d8559",
+        "d65c88af-b3db-5c91-9905-281538c4c1b4",
+        "484de8db-e850-5652-ab9d-9301eea15acf"
+    ]
+},
+{
+    "title": "Nike NBA 男子冠军球队T恤",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 299,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 299,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/4112d584-f99c-40fa-9b77-ed7c78badd81/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/4840d7f8-72c3-4c85-bcd0-8217d209b2a9/%E4%BF%84%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A9%AC%E5%9F%8E%E9%9B%B7%E9%9C%86%E9%98%9F-nba-%E7%94%B7%E5%AD%90%E5%86%A0%E5%86%9B%E7%90%83%E9%98%9Ft%E6%81%A4-2SH6QS.png"
+            }
+        }
+    ],
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+    ],
+    "sku": [
+        "6ee0b34f-3e7b-52be-80f4-42b23a9a6026",
+        "b0d6aad0-6689-51f1-be38-c0c7207ecacf",
+        "ae662f14-6379-5e8f-a312-32a9756459df",
+        "4ce298cd-9f6c-5a72-8b3b-76db1a024928",
+        "33d81458-c9e3-5922-bc19-e03ca95724ea",
+        "7f1d69f1-a472-54e3-8bcb-97a00107ce63",
+        "68230035-a519-53c5-96ae-aaa394dacb55"
+    ]
+},
+{
+    "title": "Nike Dri-FIT 男子速干赛前短袖足球上衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 399,
+        "discounted": false,
+        "employeePrice": 239,
+        "fullPrice": 399,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "运动红/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/0b7b10ce-e4de-4b16-bad1-bc7658aaa91d/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/65c8de21-1427-4c93-946b-f74012e09934/%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%80-academy-pro-%E4%B8%BB%E5%9C%BA-dri-fit-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E8%B5%9B%E5%89%8D%E7%9F%AD%E8%A2%96%E8%B6%B3%E7%90%83%E4%B8%8A%E8%A1%A3-R3wd0J.png"
+            }
+        }
+    ],
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sku": [
+        "b26ec132-39ef-5ba2-8975-1f8859469ac0",
+        "d5b1ce39-8ae4-5ddc-a944-526478b328bb",
+        "f82ceaed-c0a9-56a7-b92e-8603f1133ad0",
+        "e90015ce-99e5-521c-8659-0b9d51e3d9a1",
+        "db6bdbf4-a0a5-5b44-a329-d9284cf45f48"
+    ]
+},
+{
+    "title": "女子空军一号运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 799,
+        "discounted": false,
+        "employeePrice": 479,
+        "fullPrice": 799,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/金属银/微粒粉",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/ed1a0142-76e4-428b-9424-7f59ae7ae7a6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/0f5713e9-facf-449a-b396-441d178e7961/air-force-1-07-mini-jewel-%E5%A5%B3%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-5hrtXv.png"
+            }
+        },
+        {
+            "colorDescription": "白色/金属金/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/0fcbdc68-279b-4e41-bd31-ea3879164798/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/143c6f74-77b5-4241-8378-1101c8c39a97/air-force-1-07-mini-jewel-%E5%A5%B3%E5%AD%90%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BF%90%E5%8A%A8%E9%9E%8B-MvlWgG.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "c6963fa7-8017-5de8-9a2a-85a3ff3cae67",
+        "87945539-a2e9-5834-af36-16fec0c366cb",
+        "da1d52b4-7ade-5d09-9cf8-6b40370a13d8",
+        "e173e11e-2dc2-5015-90c0-fb8cc960002e",
+        "aa072ac9-17e9-5f4c-8dcc-b568c1b6425c",
+        "3c792a15-1a6d-5a18-9c73-8c41dd40d1a8",
+        "18c0a122-05ae-5f4d-9051-bee626e9363b",
+        "40646d17-fbd2-585d-8964-097d63bb80d5",
+        "d19b4e89-2f0b-58af-966a-4a08a02dba3c",
+        "3b3f38da-e2b3-5e39-8996-db4229a5567d",
+        "115da439-cbad-5b04-abbd-c617c7e97dfa",
+        "3ff67405-fa89-5599-a0e8-bce537c0de20",
+        "40985c4e-eda0-5d6d-8b30-ed08f66b8887",
+        "4be72800-3284-5e4b-ab7e-172c1c40745f",
+        "49407bf8-2e35-50b0-91f2-be9568aa3487",
+        "df14162a-441e-53e1-9ea3-37517bde1c7f",
+        "2ce0d600-9621-5627-96a9-ae8fe015d3bc",
+        "e77bc8aa-26ea-5506-b49c-de127369a06b",
+        "3455869c-0689-54fb-923f-24146ec0be08",
+        "7b40b5f2-8efb-55a8-a876-f9c6772e399a",
+        "5b63caa3-a1b1-54a8-92e1-578c649629be",
+        "6f7e6e73-47b4-5ed8-bf3c-a946552e4071"
+    ]
+},
+{
+    "title": "Dri-FIT 郑钦文同款女子速干网球半身裙",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 649,
+        "discounted": false,
+        "employeePrice": 389,
+        "fullPrice": 649,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/f411e231-b44d-42d7-956d-e003eb93a5b7/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/dd50055c-7961-4b46-8e59-2b1a966a9a5c/nikecourt-slam-ace-dri-fit-%E9%83%91%E9%92%A6%E6%96%87%E5%90%8C%E6%AC%BE%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E5%8D%8A%E8%BA%AB%E8%A3%99-mczRpX.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sku": [
+        "272a1249-b488-5dd1-a67a-d9c64737b55c",
+        "c3920cef-c378-5171-b1b9-e753330737ec",
+        "2050f2dd-2178-57b5-87fc-da3b68d79b26",
+        "0694e94a-c6c3-5fd5-8065-9bcbb20c273a",
+        "01fe3698-f77d-5093-b1e0-8bf110a80bd0",
+        "f54b848a-3654-573a-a0b5-12fe985bdf3b"
+    ]
+},
+{
+    "title": "Nike Dri-FIT 男子速干足球球衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 599,
+        "discounted": false,
+        "employeePrice": 359,
+        "fullPrice": 599,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "运动红/白色/皇家蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/6de1f762-6f18-4e4a-af5a-f80841ac415e/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/1efce91b-1592-408e-add5-555db5ac0c12/2025-26-%E8%B5%9B%E5%AD%A3%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%80%E4%B8%BB%E5%9C%BA%E7%90%83%E8%BF%B7%E7%89%88-dri-fit-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E8%B6%B3%E7%90%83%E7%90%83%E8%A1%A3-3C8xz9.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+    ],
+    "sku": [
+        "0c42d56c-dc01-545c-ad11-d9d36355575c",
+        "b64548e3-a352-5423-bd1b-c3c51b4f965c",
+        "35b33bcc-0416-5ba1-8619-8502f77c3111",
+        "ce0a54c9-95d1-566c-83a8-aa46627b7d20",
+        "9ec38f30-550f-59af-8817-dc379734848e",
+        "71e4c734-2df2-5ed1-ae18-04bc44983d2d",
+        "115fe20b-501d-5797-8511-8fa38418b00c"
+    ]
+},
+{
+    "title": "Nike Dri-FIT ADV 男子速干足球球衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1099,
+        "discounted": false,
+        "employeePrice": 659,
+        "fullPrice": 1099,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "运动红/白色/皇家蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/46a68b93-af8d-4a04-aa3c-095e96aa17b6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/73067fd5-bb13-4d0b-ad7a-9f1d5979207b/2025-26-%E8%B5%9B%E5%AD%A3%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%80%E4%B8%BB%E5%9C%BA%E7%90%83%E5%91%98%E7%89%88-dri-fit-adv-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E8%B6%B3%E7%90%83%E7%90%83%E8%A1%A3-6B44bH.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+    ],
+    "sku": [
+        "3547b121-2a91-59b0-9bb1-00e03ec09bba",
+        "918bccd0-4514-5119-9650-09b56b45afd4",
+        "aa08fe00-b35e-50c2-8f4d-c44972f7f564",
+        "36a503b2-9e0f-58d8-acea-b8334894914f",
+        "2b51d152-86da-5f9b-af03-e33d9623a3e3",
+        "8e103e7b-38c7-5e67-8a0e-6851baa95656",
+        "444aa964-9892-517a-97ca-5d80c2bc3fa8"
+    ]
+},
+{
+    "title": "复刻男子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1599,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 1599,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/冰葡萄紫/黑/祖母绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9c5f0e77-171c-44d3-a323-4a1fdf15090a/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/eefe97c3-1b38-4e84-b85b-5fd2fe52751c/air-jordan-5-retro-%E5%A4%8D%E5%88%BB%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-kX5bzK.png"
+            }
+        }
+    ],
+    "size": [
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "0e629d0d-36c0-5582-8096-e3c38d700d2e",
+        "3aec91b4-0e3d-5305-9767-2aaa47beba37",
+        "b7c8b499-7ab1-5a60-b032-d4e8ed9aaf29",
+        "9d1f9564-94bd-5349-ae5b-50d120e14089",
+        "4ef25483-34a9-5a85-8344-c35468102fe6",
+        "36c237be-484d-5e07-9d59-62f511bfc73d",
+        "1967d6de-ed4b-59dc-a75b-5a2802521fc6",
+        "99fac7ec-170c-5a1e-9ca6-5fe440432f76",
+        "bab0c9f4-703e-51ca-a1de-487d28dd9987",
+        "b33047a1-dc1e-5c8a-ae9b-6318ca106520",
+        "cfe9223c-a485-5bf1-91a5-a99022597184"
+    ]
+},
+{
+    "title": "复刻大童运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1199,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 1199,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/冰葡萄紫/黑/祖母绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/79602c19-0562-40f0-ad30-8d9a8e29960e/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/575f291d-0153-4b19-be0d-1a3a298610c4/air-jordan-5-retro-%E5%A4%8D%E5%88%BB%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-JVQfJB.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40"
+    ],
+    "sku": [
+        "323fa3fe-f673-5236-8574-6efe29f5a50a",
+        "210d42c3-77ce-57b6-b1b8-06917aabe565",
+        "8f94a08b-0290-575b-a573-3ee3015242d4",
+        "c8bbd0d5-8a39-5c46-a9c6-c45ccdb490b6",
+        "f423fd92-20e6-595f-a8e2-a6f24ea15d46",
+        "5ec151bb-2f92-5c7e-8d55-3b2ddcc8a9da",
+        "3881c26a-dc42-5830-bab1-bb6804849686",
+        "53e9bb6f-b562-5979-8a24-6297cfc0d834"
+    ]
+},
+{
+    "title": "科比男/女实战篮球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1899,
+        "discounted": false,
+        "employeePrice": 1139,
+        "fullPrice": 1899,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/氯蓝/黑/反光银",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/7ec14c42-40b3-4b20-a48a-41ab2ed2270e/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/e0922bee-8622-4b5e-ad4b-74b6e0cdb836/kobe-9-elite-high-protro-%E7%A7%91%E6%AF%94%E7%94%B7-%E5%A5%B3%E5%AE%9E%E6%88%98%E7%AF%AE%E7%90%83%E9%9E%8B-QSMzPV.png"
+            }
+        },
+        {
+            "colorDescription": "白色/白色/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/21619305-d1a4-4a83-87ff-b29049fa9683/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/3c7a5b6f-b57f-4f39-a03a-0083796e8d6a/kobe-9-elite-high-protro-%E7%A7%91%E6%AF%94%E7%94%B7-%E5%A5%B3%E5%AE%9E%E6%88%98%E7%AF%AE%E7%90%83%E9%9E%8B-QSMzPV.png"
+            }
+        },
+        {
+            "colorDescription": "亮深红/白色/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/56668cfc-570a-48f4-8b10-eae6f822e00e/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/780a6628-c1e0-4a02-9883-151eee2f5963/kobe-9-elite-high-protro-%E7%A7%91%E6%AF%94%E7%94%B7-%E5%A5%B3%E5%AE%9E%E6%88%98%E7%AF%AE%E7%90%83%E9%9E%8B-QSMzPV.png"
+            }
+        },
+        {
+            "colorDescription": "黑/亮深红/荧光黄/金属银",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/e3794a58-1583-44c0-be6c-c352df69c0d2/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/9f8d094b-a19c-4cea-a909-fc4859abf10a/kobe-9-elite-high-protro-%E7%A7%91%E6%AF%94%E7%94%B7-%E5%A5%B3%E5%AE%9E%E6%88%98%E7%AF%AE%E7%90%83%E9%9E%8B-QSMzPV.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "48",
+        "48.5",
+        "49.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "48.5",
+        "49.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "48.5",
+        "49.5"
+    ],
+    "sku": [
+        "d82d7632-74a6-5981-91fa-a4293785ceb5",
+        "a8ef9309-a814-5a5a-9476-5c210619d014",
+        "d7f5e4cb-5838-597b-8825-c365a1466ec0",
+        "fabc5257-cf9e-5221-ab97-c2ec62913e39",
+        "0b4c4f00-622d-55e1-9c5a-1ceba91b3871",
+        "249c91dc-bd89-5bc5-a200-37a86a084799",
+        "6e129575-f032-5100-a07d-e5fc087bbbfb",
+        "74a32462-b68b-571b-a67c-9d0a5d7021f3",
+        "18fc47eb-ded8-5e79-866f-b4dc612fffe2",
+        "d2d49dcb-1126-520f-9f9d-8fb5591c6045",
+        "6c3d4569-f181-5119-a786-59c195d2d57e",
+        "d8ea6987-ae17-50cf-a0a5-9240346dbd21",
+        "37b36ff1-d882-50b9-9650-1a2398249ba1",
+        "64415f9f-5d94-500c-9f28-3e6c2def48b0",
+        "2566dfd2-0dec-514c-a071-91b835c9e252",
+        "3925dafe-7dff-5667-8e8b-aaff44804563",
+        "20fbffdb-5788-5b87-9036-8f35f3251e08",
+        "1de2838a-dee9-504a-81a4-208b3e0ef3eb",
+        "8d739653-8c78-5934-8d2e-6f5d939fcaf2",
+        "67324d11-5708-55f1-91f5-6d1a529cb8f6",
+        "7b18ee20-be0b-5fb9-b4c3-a3094a0ce258",
+        "37e4dbdf-b191-5afe-b540-acfd175ecb94",
+        "890095c7-60a4-5020-98a7-aad752f5f100",
+        "3a1237d2-ca26-5d1a-b9f8-b42204102feb",
+        "d42a985e-6b17-51c2-8d4b-f6224df9ec48",
+        "1f9bae22-c2b2-53b1-9b56-5f0c5fbd37d3",
+        "26fe9c59-4835-560f-ba44-9af4babc8061",
+        "ecaeca24-21ed-55aa-ae40-fc8dd9ccd7bf",
+        "c66bffed-7e90-5535-b5af-85efc28e7df4",
+        "9f53b584-9fbb-5951-b77e-4671d2993287",
+        "ed3c13e0-598d-5b47-a033-78f464a6decf",
+        "9687c2d3-c2a0-5534-8fd8-25f0df3cb0dc",
+        "22185e28-595d-56e0-9ef3-c2ac7a316a2b",
+        "39790e7b-4dfc-5105-8549-e1afbd0a2e74",
+        "30b3d73f-6323-51e8-9552-3e5ef21fa0f3",
+        "44a820d3-52ef-549d-a05f-d36c8278a0b7",
+        "ac1096bf-3c77-532b-bfb8-e794a0c1ba02",
+        "df094714-ca32-5854-88ad-32598da28db2",
+        "e720e43a-c638-5311-a424-0b04dc1adea3",
+        "cb47307c-b578-5cc3-80bf-7f4064a9e8c8",
+        "cfd72bf0-2f34-5ac0-87c1-45334ef96ce4",
+        "78701d8b-b462-54fb-bbd3-d8bc82eb6df2",
+        "ad0e6387-3330-50f4-ad82-1fe1325836f2",
+        "20554e83-5868-5a17-a403-4e79b1097d4f",
+        "d6c26ec8-67b5-5cbb-94b1-a13fe109924f",
+        "1a519c49-acf4-556a-ad26-0e7231ffbef4",
+        "db4270bc-fe9d-5b93-bea5-45af763cae8b",
+        "747ac264-378c-5bbc-acb0-053b92d82df3",
+        "34bf9e62-97bc-5e12-b9be-5edb38389606",
+        "19695b54-fcda-5a67-8535-5f6d853e9476",
+        "b2fa19dc-5929-5fdc-bcc8-d451f6f129ed",
+        "aa6d5fea-756e-54f7-90df-887060eafc40",
+        "e5a01501-30fc-58d9-a74f-2c743fa67995",
+        "4f78736c-a8ed-54f4-9752-d42249b484e9",
+        "887084c1-6deb-5c56-9e2e-23940c60590a",
+        "b0b67365-6784-54a8-b648-efbacdc1653d",
+        "38baefe9-fe6f-521b-8914-365227472ca3",
+        "d2242bc9-8850-5932-8179-6c5e4b0d1e97",
+        "67143188-35a5-5d93-90fe-e0951bb74a6a",
+        "421a95ab-15ef-5820-9174-788b8ce917c6",
+        "b2fd04af-26f8-5d20-b505-921533b4c4da",
+        "96ef8859-fe46-58ea-a09b-b481dcf41213",
+        "e236cacb-e0d3-5af3-809b-936eb4359129",
+        "6e585dec-9578-50d8-bae9-305f338cd4fd"
+    ]
+},
+{
+    "title": "詹姆斯全明星男子篮球鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1599,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 1599,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/黑/金属金/椰奶色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/f8b204d7-2260-4faa-bce2-e30dc32d5f7f/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/c141af60-fc12-4e4d-96f5-2c3209530433/lebron-22-black-label-ep-%E8%A9%B9%E5%A7%86%E6%96%AF%E5%85%A8%E6%98%8E%E6%98%9F%E7%94%B7%E5%AD%90%E7%AF%AE%E7%90%83%E9%9E%8B-b6GzQm.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "96ca3cbc-143a-55ce-a1c5-6e74bb826f33",
+        "0378b9dc-0c3f-5166-a712-4673fe2a61ae",
+        "94c848fa-438c-5f74-ba29-f8d7d1868d9c",
+        "ba07625d-705f-59d9-8f37-015aac841d39",
+        "16e1e8c4-cc97-5791-aca1-be7042028763",
+        "1fe9356f-a3fd-5e48-944b-80d7ee562808",
+        "18f13d5b-a251-5efc-b926-d2dc8dc2ef57",
+        "bba5cdbd-1a04-5e75-866d-849a20f728ed",
+        "5148e988-1bb2-5689-8cc8-0c505ed5ba37",
+        "11c48519-9a24-50e5-80ff-f1faaf873f1c",
+        "4bcf08b5-2528-544c-9078-0e4e1a3f507e",
+        "4453233b-a5b8-5a4d-a0b5-799616a57bc9",
+        "281b4e53-ca16-5704-ad34-b7a640255340"
+    ]
+},
+{
+    "title": "女子步行运动鞋走路鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 499,
+        "discounted": false,
+        "employeePrice": 299,
+        "fullPrice": 499,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/俏皮粉",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/8c34a18d-0d5a-4766-9ecd-5638fdecafb4/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/aff4558c-2c21-46f7-a60e-d77b278c6c29/promina-%E5%A5%B3%E5%AD%90%E6%AD%A5%E8%A1%8C%E8%BF%90%E5%8A%A8%E9%9E%8B%E8%B5%B0%E8%B7%AF%E9%9E%8B-sB4lPq.png"
+            }
+        },
+        {
+            "colorDescription": "白色/微黄绿/金属银",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/88f79bfa-06a6-4236-a27b-bac9a56d5e9a/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/04342eab-00cd-4a43-9790-00dea3a8069c/promina-%E5%A5%B3%E5%AD%90%E6%AD%A5%E8%A1%8C%E8%BF%90%E5%8A%A8%E9%9E%8B%E8%B5%B0%E8%B7%AF%E9%9E%8B-m4Lp5J.png"
+            }
+        },
+        {
+            "colorDescription": "幻影灰白/帆白/神秘灰烬红",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a91372a4-218b-4b9d-b431-ff73c686fedf/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/25695ef6-32d0-442f-a03d-a2e397082a78/promina-%E5%A5%B3%E5%AD%90%E6%AD%A5%E8%A1%8C%E8%BF%90%E5%8A%A8%E9%9E%8B%E8%B5%B0%E8%B7%AF%E9%9E%8B-sB4lPq.png"
+            }
+        },
+        {
+            "colorDescription": "帆白/石膏色/团队金",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/addf7f33-1fcb-4e0a-83fc-9a3a9387d3cb/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/49d9bfa1-1935-4be0-bc52-6d5f321acbd2/promina-%E5%A5%B3%E5%AD%90%E6%AD%A5%E8%A1%8C%E8%BF%90%E5%8A%A8%E9%9E%8B%E8%B5%B0%E8%B7%AF%E9%9E%8B-sB4lPq.png"
+            }
+        },
+        {
+            "colorDescription": "白色/白色/冷杉绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/0277e85d-810b-4990-b96e-73266f9575bc/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/fb9dbecf-bbab-4937-9000-dde1e41b3690/promina-%E5%A5%B3%E5%AD%90%E6%AD%A5%E8%A1%8C%E8%BF%90%E5%8A%A8%E9%9E%8B%E8%B5%B0%E8%B7%AF%E9%9E%8B-sB4lPq.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "c29e7a9c-1d25-5685-a092-cb7bc1028411",
+        "00b54ddc-7aea-5915-b243-5ad3764c8228",
+        "18afb547-cdb9-5099-9323-df6c6d495ef3",
+        "97f0a431-9265-55b5-b126-aee3c4605fe4",
+        "21af47d3-fa7f-5c2c-b9a8-7bf41684c9a5",
+        "a773cfd1-92e6-515f-ae49-4e957fd3c267",
+        "5c946ff4-6aaa-5189-a777-ea21bde1ca00",
+        "02082548-e571-5e7f-b0e1-7633f069d43d",
+        "798d4ed4-081a-5cd5-9751-cc04711c4917",
+        "11598f8a-03f2-57f1-87b2-d6a3882c85c8",
+        "0cef5ace-a25e-5f6b-bf78-4c1f65fafbb7",
+        "945ca893-04af-5637-92d6-95bc42097f40",
+        "df888102-f8ed-5db0-88c7-d79c97d6bc3e",
+        "8b4c82c2-fcad-5507-b0d7-554bbc27ddd0",
+        "f9427d96-0b15-54c9-a7ee-9e559db80560",
+        "2a0a35f8-7361-5914-8bdc-6c8263b20a82",
+        "4674e098-6177-5c67-88a3-fded76122053",
+        "a29199b8-6265-5189-9032-b00f6aae63c0",
+        "3f531510-267f-5f2f-b073-75141cfae32f",
+        "dc8a0889-af46-575d-9b26-4b091fce9ce8",
+        "a74bbdef-7423-58d2-9097-7d97571aff8d",
+        "163b2cc2-3919-5be2-b519-0cffe75398b4",
+        "9a63636a-c0ad-5bcc-8537-08569c1491f0",
+        "c6c6ccef-8aa5-5d8d-970e-297c61c48a8b",
+        "77b54abd-0738-5649-bf45-cba30f7ad5fd",
+        "57f62545-70b6-56a7-80b2-8441a85acb4f",
+        "2771feaf-b609-5bc3-91e1-2c371f44d061",
+        "b27624fa-19c5-51bb-980b-ef28e6abe73d",
+        "f24c64b7-afd6-5759-a9dc-3d068d10406a",
+        "1bbca5d4-1569-5a97-8514-296688daba20",
+        "bac997f0-0dde-57c4-9333-51542b483e39",
+        "36dde1b9-cee4-5529-a590-368aa1dd8c62",
+        "b6478d70-9d04-5c36-9cc8-8ab780a06ad0",
+        "72f56d08-0d70-593d-8b15-032fd70f8294",
+        "c05e7f14-84f1-57ed-a036-6ee4d8083483",
+        "8d240137-b87a-5e0a-ab76-a54d2450b110",
+        "8825501e-2bc8-57d5-ac70-428a31798c51",
+        "9e033b74-84d6-5a32-9175-e7453ea0fd40",
+        "ce4d1990-67f0-5f3f-9f2b-fe5b364f14ab",
+        "23cd0fdc-6521-518d-b0c6-f10c93eb9f29",
+        "c4572c34-cf38-5d55-baee-ca96b0112032",
+        "4a7c7571-e8d7-5b46-9dc2-3afb5a5d526b",
+        "5616f4a3-0363-5b8f-8ae7-c446058bee8f",
+        "afe5a2c3-9e4b-5f36-bad1-9b161cd5bfa2",
+        "386aedaf-4c3c-54e6-9f70-332036bb9c34",
+        "0b073dbe-3cb8-5967-a04e-cfd8e76c17d1",
+        "b9174e57-8e05-5a6d-893a-39763e646350",
+        "1cbf74fd-cd04-51ec-8f90-61baa6e273c9",
+        "058b14c6-e204-5d44-9c25-be548c212005",
+        "6789f296-c77e-5a94-be2d-1a6c84f3251e",
+        "d1ef1563-d4e4-547e-86b4-994f8d7677cb",
+        "57f1d3cf-5182-5eee-9221-13a52c3f477b",
+        "a6e2718c-bce9-56b4-ba00-7f8efc2452d7",
+        "681de704-66b4-55bd-873b-af4747c4d103",
+        "59b530d7-cbe4-544a-aaaf-317eacbac728"
+    ]
+},
+{
+    "title": "高尔夫球鞋（宽版）",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1199,
+        "discounted": false,
+        "employeePrice": 719,
+        "fullPrice": 1199,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/深藏青/大学蓝",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/1b5d758c-337b-41b5-a0be-6be72726e70f/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/32f2d3f8-c80c-4f7c-af16-cd45da71be62/jordan-adg-5-w-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%90%83%E9%9E%8B%EF%BC%88%E5%AE%BD%E7%89%88%EF%BC%89-TXjFRq.png"
+            }
+        }
+    ],
+    "size": [
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "e27d0138-1119-5018-a323-b263e5fd8b15",
+        "77128e97-724f-5ac2-927b-6d0db1966134",
+        "980843bf-9ac9-50f7-8250-3ddf2ecd7503",
+        "6f74e514-b230-5585-bb99-5e70babac4ff",
+        "916df176-c337-5de1-a0f7-7af5f11e3004",
+        "62caded0-73c5-539d-bc54-e72c70c940ee",
+        "ce3dc675-90a5-54af-8141-7722728163c8",
+        "b264c556-f462-52f0-8dd7-6f3d621b55bf",
+        "124edb9a-38f6-51f5-a039-883d562b439a",
+        "d0f93908-8ee7-5cc8-b654-fb71bcdb8cbb",
+        "ad002232-d1d4-56fe-bc28-dc7f9364d4e1",
+        "90641d58-68f9-5355-becf-63b51e90f1b5"
+    ]
+},
+{
+    "title": "复刻男子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1599,
+        "discounted": false,
+        "employeePrice": 959,
+        "fullPrice": 1599,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/金属银/火焰红/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/1aed19e0-067d-4ffd-b954-cfad38e8d97c/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/cdde770b-830e-4752-9932-47c9471e572c/air-jordan-5-retro-reimagined-%E5%A4%8D%E5%88%BB%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-TZ5gj6.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "3546a9a7-de25-576c-9e09-eb44553f1467",
+        "57129b36-b81c-5e84-9842-bd55a6507f3c",
+        "f0e8a379-644e-523f-aa2c-e267bb7b9300",
+        "22879aa6-04ea-5aef-a0f6-151c85cfe92c",
+        "8704926c-68a6-5208-90e1-7a9da7c66709",
+        "5cafa007-2e27-56cb-87cc-059b6c25ec12",
+        "6ada4a6f-0a31-566f-bbdc-8dc80db00b7e",
+        "3c7ca846-e8bc-5bc0-8d87-3fc1ffe3e7e9",
+        "bad85914-3d59-5265-94e6-d8cdfde67a52",
+        "db1e87e1-5aaa-5e31-a8f3-738183271bb2",
+        "dbebb5d6-a54c-5e9c-bd98-a2b56fdeeb1b",
+        "76728858-4c1b-5f74-bc02-42f793a9de28",
+        "b1d15049-d03e-523c-9bfe-22820dd18ddd",
+        "23f2ab5e-54be-55e4-886e-77e165cce2e7",
+        "7e57aa51-ed28-5b2a-b264-0d95b9efd2a6",
+        "1e1958e9-72b2-58f0-bc62-b5206e7b5e26",
+        "a6f8ad1c-f0a3-54e8-8833-26acb26905a4",
+        "2312b5b1-d5aa-5a86-a60d-ae5c3176871b"
+    ]
+},
+{
+    "title": "大童运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 699,
+        "discounted": false,
+        "employeePrice": 419,
+        "fullPrice": 699,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/白色/帆白/海星橙",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a8efb9f3-7ba2-4c2b-97a8-b2cd4a50bc05/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/f771866b-c684-4257-b120-d8a4ee4fc3ee/air-jordan-1-low-%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-3RW6q5.png"
+            }
+        },
+        {
+            "colorDescription": "铁灰/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/2d01adfe-dce3-4c97-8d71-d0f9e3079e90/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/5848ddc9-e613-4765-b29e-ea5a664d1a50/air-jordan-1-low-%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-3RW6q5.png"
+            }
+        },
+        {
+            "colorDescription": "白色/浅灰/橡皮中褐/深藏青",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/e69bfa39-95d2-48f7-9bfb-faed2f603554/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/fcdcaa03-d531-45a5-a0f6-51018e2fe57d/air-jordan-1-low-%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-3RW6q5.png"
+            }
+        },
+        {
+            "colorDescription": "泡沫粉/火焰红/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/71209228-cb04-48d8-ac21-fe866c6ba1ee/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/ca9a7879-a7bb-4eb7-bd19-72d665040976/air-jordan-1-low-%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-3RW6q5.png"
+            }
+        },
+        {
+            "colorDescription": "山峰白/藤黄/灰黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/85adb103-4537-4ce7-ba56-f007d8d7311b/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/ab87dafe-bedd-42fe-8c65-363dfa2f0865/air-jordan-1-low-%E5%A4%A7%E7%AB%A5%E8%BF%90%E5%8A%A8%E9%9E%8B-3RW6q5.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "40",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "40",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40"
+    ],
+    "sku": [
+        "99c8b411-d3eb-5031-a9cd-b5edb1696fd5",
+        "b2d94051-be35-5b20-ade4-d828d56a8bdf",
+        "3b4bebba-7559-54ae-870b-4eda228ed817",
+        "94267f6e-4cd9-5d3a-ae0c-42fa60bc4efc",
+        "c433d1bf-159e-531a-a60e-2b1d8f5188e3",
+        "f90f4fc6-dd2f-5d2f-a3a5-28c86ecb8a27",
+        "d1bacc1d-4ba2-5684-b6aa-f033a4369284",
+        "49db5a19-0b37-5067-a1c4-23087ab556aa",
+        "524d69b7-53ad-5e08-9611-4f9c4ff69736",
+        "26a6c2f8-3b7b-5e1c-88a6-5d833484eb0f",
+        "8d13c252-491b-5792-a35a-40351884c473",
+        "c6f3dfc6-e4d8-587a-a940-702d07e8dea0",
+        "ecb98484-a819-5ae1-a744-6e960512319b",
+        "3bef0491-ec36-5ff4-a703-cec8cbe541f5",
+        "c61cbe17-111e-5038-9719-05f4c83d3306",
+        "82e7a61f-f229-5dad-a335-a1e601031560",
+        "413af977-2108-5081-b22d-d2f8308ac02a",
+        "acfbe30f-f2c2-58f3-a29d-fda2323fff61",
+        "96c14bf3-072e-5e92-9e58-a08255996869",
+        "676ce2cc-124b-5d5f-927e-e989168f3254",
+        "0e5f19d6-d59a-52b1-931c-175b407847f8",
+        "a83793c6-d8af-5c19-ac25-f2b5bb8cbea3",
+        "2cdabbd6-b547-5c60-8b2b-321eeef4c7a5",
+        "7294a106-6dc4-59a9-9d92-05841bb62a9f",
+        "38a97b92-c429-5ee9-82df-896f43c86c13",
+        "79747817-5c71-5717-b36a-b8a80d4216b6",
+        "380c9a73-19f3-586a-8169-3768955fd696",
+        "f2855eba-5a8a-5813-9dbf-a10f36f8903f",
+        "0fd56e48-8160-52a7-af84-710464ea385a",
+        "dadf5461-e233-5865-8f42-5a05b7146744",
+        "7fa371ba-3911-5150-8c9f-fcbf8ca39329",
+        "5fb143c5-691b-5b52-ae9c-2c75e6bd25b0",
+        "80a89c26-7222-5d0a-aa56-294720295387",
+        "9608ad2b-e20a-590e-ba7e-95634da7da01",
+        "61226dac-9043-573a-acb3-da33fa6d7f81",
+        "df89dfa4-a138-5001-87f6-2219eabf0125",
+        "7029ec53-1ea7-5f86-8b90-df94a160cf3e",
+        "8bb9317c-8e95-5b97-b1db-0f5d6ac9e946"
+    ]
+},
+{
+    "title": "菲斯·基普耶贡耐克超级飞马女子公路跑步鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1349,
+        "discounted": false,
+        "employeePrice": 809,
+        "fullPrice": 1349,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "梦幻紫红/粉紫/暗调勃艮第酒红/华丽紫",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/d21a3a1d-c60f-49f8-8826-2cdcb979aad9/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/7414c6ed-74c1-4abd-9ebe-085e9184d0bd/pegasus-plus-faith-kipyegon-%E8%8F%B2%E6%96%AF%C2%B7%E5%9F%BA%E6%99%AE%E8%80%B6%E8%B4%A1%E8%80%90%E5%85%8B%E8%B6%85%E7%BA%A7%E9%A3%9E%E9%A9%AC%E5%A5%B3%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-nCTtnd.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "e1924781-fb93-5a03-bd45-a04f15b3b1e0",
+        "1c9d09e2-44f1-5754-85a3-0da7de00fc9a",
+        "13bda14e-be5b-5b38-8fee-835fc198e0c1",
+        "eb057b14-1132-5875-b066-f5b7426bfc0b",
+        "2be57df1-d021-5871-9bb9-b11afe6d8bd9",
+        "a3e3e27a-b4bd-5029-8d11-38db38163b03",
+        "4a1d08f3-d7bb-5a8c-b443-576cc482d04d",
+        "a6d88758-a3e2-5bbd-81f0-8651b54ccca7",
+        "cb6098b5-908a-54bf-b14b-1d7a501989ed",
+        "4ed26ba6-c80a-5b6b-b8ac-b82fe3cd1bab",
+        "6e15b0ee-a574-5e43-9546-d92b8367ad25"
+    ]
+},
+{
+    "title": "菲斯·基普耶贡耐克飞马女子公路跑步鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1099,
+        "discounted": false,
+        "employeePrice": 659,
+        "fullPrice": 1099,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "粉紫红/鲜亮勃艮第酒红/闪电深红/梦幻紫红",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/21a2a942-7e66-4edb-9b20-8ad4ff9a4dda/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/65554476-eb02-4f2e-b393-13586a157049/pegasus-41-faith-kipyegon-%E8%8F%B2%E6%96%AF%C2%B7%E5%9F%BA%E6%99%AE%E8%80%B6%E8%B4%A1%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E5%A5%B3%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-GqRq0M.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "14bc5d6b-a680-5646-ba2f-ab22f6b4ed46",
+        "2460f258-fb4d-5410-8796-caf3ab42592f",
+        "d4d74b57-08c3-5740-b297-7379b27805c0",
+        "a31b6302-8771-5042-a425-d529ce26a7f0",
+        "4aa23d7f-40b9-5ade-8c81-2ce4f9f71785",
+        "0bc75fad-5a18-5690-8f4c-eefda6961d3c",
+        "1ad28d70-d47a-512c-bdb0-d35db31ceac1",
+        "0adacb4b-11cf-54d7-b424-a412474675b0",
+        "3347a3db-ce9a-5882-a2a8-d7e766e9be32",
+        "2bc5936a-e84f-5001-873d-461497b02f81",
+        "e333ec74-1989-5e32-b578-1c6d9041c505"
+    ]
+},
+{
+    "title": "男子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1399,
+        "discounted": false,
+        "employeePrice": null,
+        "fullPrice": 1399,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/黑/煤黑/煤黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/60c3b920-6f7b-4797-a05e-7147f1a6cdb3/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/50568a09-f867-430c-bfef-ea0f3404c430/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-JKdh1f.png"
+            }
+        },
+        {
+            "colorDescription": "白金色/白金色/黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/1cd467e1-175b-441a-b8ee-bd31b85d8753/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/20fdb293-50ff-42f4-ae6d-87d5c55eae5c/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-Q6Nq4T.png"
+            }
+        },
+        {
+            "colorDescription": "巴洛克棕/巴洛克棕/黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/f70855ab-d072-47f4-8417-65c4bc190fb9/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/5d3205e0-f8c7-40c4-968c-d03203324cad/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-JKdh1f.png"
+            }
+        },
+        {
+            "colorDescription": "黑/耀眼靛紫/荷兰橙/热情紫",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/df641e74-858a-4b8e-bb04-dbf7efc8ccff/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/0eae1c6a-4a49-4e6a-91ab-783f57040e83/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-07HRkK.png"
+            }
+        },
+        {
+            "colorDescription": "沙漠卡其/沙漠卡其/黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/451b2ebe-c281-46d5-81d4-b685b5d102e4/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/41fbcf53-8205-49fa-979c-07cccfeca73c/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-26mgjB.png"
+            }
+        },
+        {
+            "colorDescription": "队橙/激光橙/黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/5e14698f-749f-46ad-9ead-845e77c6eab2/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/beca3db9-a469-4bc1-bbf5-14a846e90db6/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-1zWDsz.png"
+            }
+        },
+        {
+            "colorDescription": "黑/浅烟灰/黑/荧光黄",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/3f2b0eac-e7d3-4bf0-a247-15c7cc964a91/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/659a37b1-577a-4fd5-9a05-ae79f4759992/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-L3gNZp.png"
+            }
+        },
+        {
+            "colorDescription": "黑/健身红/亮深红/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/b4cdd269-25d6-4fdd-aaaf-a13b65a76c71/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/59ff827c-5672-4657-9eca-0179dfe206c3/air-max-dn8-%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-JKdh1f.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46"
+    ],
+    "sku": [
+        "c6d624c2-45af-5d41-b7cc-be8508ca3658",
+        "da5d6f06-b55b-57cf-9290-d990aef6ca16",
+        "3374164d-f77b-5597-a4c9-7827271249dc",
+        "912c0bc1-2fde-5ff5-b495-e3c2e5b02d0b",
+        "2e81af0d-5535-5559-9661-f45fbe8507b4",
+        "9de9ca08-ef20-58ea-b097-06b1c4ca3327",
+        "685e60f6-9097-5d95-9665-63e4c1243249",
+        "7656620e-cfb7-536d-a745-c37d0515ddeb",
+        "46627d66-4f3a-520c-b210-6f5b6e794bd6",
+        "a32082dd-541d-5292-b773-6610331ef75b",
+        "80e9d802-5190-515c-a76a-f2259f8e5991",
+        "5b972b27-1b20-581d-89b4-c2a665f33727",
+        "889aab2a-81d1-5f19-ae5d-251b1d4e281e",
+        "5ba58ae6-1e90-51ae-834a-44a01bf14ba9",
+        "6b542e11-fa1f-5b6a-a600-fa02753ce2b1",
+        "2d5a2eb5-3a59-5fb9-9089-d48f19708122",
+        "ec8c47df-9fa7-5ccd-89fd-4483006ec73c",
+        "7a49f72a-146f-5ce6-91e4-72a278feeb7f",
+        "c66c8e00-54db-5609-8969-015eca802032",
+        "0600d433-2070-5488-82aa-e4f6c1451b83",
+        "bd336f6e-5552-5c91-b7ff-4eb77ecf83a6",
+        "2fbdb076-46a4-5855-92f8-5b5cc974bf8b",
+        "3eb1fcb6-7f20-5424-9901-95d2853178f3",
+        "80c19774-fed0-58a8-89fe-40ae77f3534d",
+        "4bc0d88b-48a8-589d-98e7-1b982fe20e1a",
+        "711a852f-8f32-5402-aafc-11328e076b23",
+        "b5741a5b-567f-527b-b732-61a8dc656ade",
+        "7b6407d6-f2a9-5b74-9117-ef71a2a1ccd1",
+        "188cba04-7467-543c-b80b-6ed558f152a5",
+        "eeb5b5b6-87de-5648-8ce1-bb1e6893ca94",
+        "54c24cb6-40d3-56b4-834c-ed9685e87c76",
+        "00099fe5-f33e-528b-812f-05afafefdbe5",
+        "139e1492-462b-5262-9dbd-ec27eb104279",
+        "45d836f2-54b5-5c62-9559-498b044e9d7a",
+        "d27f3d19-cd21-5715-a0f8-8ef8b6543053",
+        "a312da61-8cb3-5577-8519-22f7e0989aa2",
+        "fc4b41aa-ffed-5680-898d-f9c81df7db30",
+        "7537746a-f768-596e-8883-a2dc7e0333e8",
+        "a39567a6-d4b7-5fc1-a814-accb2635a777",
+        "bc7cf4b9-ed27-5822-8f84-344cfec7e4e6",
+        "96e9a498-f67f-5f82-86a3-f67071c523cc",
+        "7137a161-e728-510e-8175-bac2ccda1b2f",
+        "68a5343a-6adc-54e7-b2af-6509c7cfcad1",
+        "2d42ed66-096d-535b-bbe8-d9d4b3502053",
+        "46280a19-3b57-5d02-9c47-3250b3e595b1",
+        "1e65d3fa-4b5e-5e9c-a623-03ad3df03ae8",
+        "007b9a4f-ec3c-5eed-a9eb-67e560f1ce2f",
+        "f3b0a646-e26b-57cc-95f7-862995a5e493",
+        "112fbaca-d174-5300-96ef-74035cbb6f43",
+        "e195523a-edfc-51ec-9500-30304235f00d",
+        "c4858752-aa53-55a7-81ad-1baa9f3b2132",
+        "57533c94-6e43-5bec-ad4f-63bd9f74dae8",
+        "d81fafa9-0fbb-5b4c-a55d-38e9cd11bd2a",
+        "7996660a-8b87-5154-8c2c-9f80ea67922b",
+        "cd3b4e4c-7c93-5b4b-be24-9e1309cc2cf0",
+        "9ae4f835-f3a1-59cb-876c-87f0599a2848",
+        "ec7a16a7-2dc7-54da-83aa-6852498974ef",
+        "e4a8559d-0459-5504-af5c-44f8e4f78d7c",
+        "f958cd2e-be01-501d-a7b9-692ac8f98bb2",
+        "23072c9d-757c-5711-9bc2-37ad793aa979",
+        "06d2e70f-fe77-537b-8073-7925bb61d41a",
+        "c8af7bb2-0f54-5514-adbb-dd7a8addef76",
+        "b4dd7115-78c5-5e3d-8495-fe6ceb34c4c8",
+        "4f9794f2-73c1-5089-84d2-0945f02809af",
+        "23986784-328f-5a22-872b-5e9a72d3c52d",
+        "6dcfb5bc-99f6-514c-abb8-fad04605d4e2",
+        "747be799-da5c-50e8-af5b-bb95f288e399",
+        "d3aaf822-8742-524b-9b32-29d8a036ebc5",
+        "8a2d1161-0039-5be6-b707-3b6d07ea08e5",
+        "20b7a2ea-7b77-5710-9b79-c44ec2d9f64c",
+        "0e7ae258-fd9f-5f94-be39-d2575cba3ea2",
+        "5380a23d-78b2-56f1-a364-7e4adb712889",
+        "613fcf6b-fa03-5a36-94d0-09bed332ac00",
+        "86899001-859e-5926-98f8-6bea717d4b57",
+        "61b7c148-f699-50b3-89d2-61c8d64b9dec",
+        "9ab74e9d-ce18-52fe-bb1e-253ba97195ca",
+        "57d8edf1-14c4-57be-921a-9f60d9d4f6e5",
+        "a0b8654a-381a-5ccf-b5f0-dfd264e9838f",
+        "e95fea0d-d620-5650-ba3b-495c5363724f",
+        "680a756d-adee-5e74-bb23-b59985b30965",
+        "a80cbd52-4cf4-5cf1-b129-83ca43f32fbf",
+        "72f84688-0c1d-5fd8-95a8-7232fa85cfe4",
+        "66d2f7a4-c5e5-580f-93c7-8ddf10ee275e",
+        "25921a23-45af-5094-9c76-526920ba51e5",
+        "b55643de-7bb1-536e-9d78-c56912b26ac1",
+        "7d1b1819-f54c-5ef5-bcb9-3fb8f6becd76",
+        "d8594eba-48ed-518c-8947-d9da0272662c",
+        "4776decc-686f-55fc-a420-59550d37eca6",
+        "3507820e-0286-581e-91f3-740fcb840e7a",
+        "ce29d6b2-e064-57ee-9c17-0e5321675241",
+        "3d40c7a8-f8b6-544d-880b-6ad2f05b5837",
+        "6b65888e-11ab-5b8c-9560-93a6d25c2cd3",
+        "540eb0f8-318f-53fa-82a9-514781cf3dd9",
+        "28b14d73-226b-56dd-a6a8-2327ea1fa0f7",
+        "78643b69-d9f2-56bc-af51-59feaac7c1f4",
+        "3f793a76-7402-5b86-8e42-9b8611472428",
+        "6d664af9-df78-52a3-8252-0a3c5a05aa8b",
+        "8d1e4379-2e68-5426-8c88-62bdfe362f5c",
+        "763952b8-3505-5cee-a775-f06b68ee2c26",
+        "58b237ac-ce74-52c3-ac0c-54687f899340"
+    ]
+},
+{
+    "title": "复刻男子运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1599,
+        "discounted": false,
+        "employeePrice": 959,
+        "fullPrice": 1599,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/校园红",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/5dc069d6-ffdb-471b-ad5b-1fbe21936a40/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/b9b18da6-a1d9-4a67-a4b8-fd7793ea8043/air-jordan-12-retro-%E5%A4%8D%E5%88%BB%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-qfwzGT.png"
+            }
+        }
+    ],
+    "size": [
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "685abcba-d591-53a1-8648-25b941c362ef",
+        "f287735e-599c-50df-816d-4e72dc327f0b",
+        "4a2be641-731e-55ad-a7cf-11adf10309ef",
+        "494e1f69-7193-582e-9376-b6856680d24d",
+        "8744dfe6-bd5f-51a3-80cb-532ac6d1f1ab",
+        "5319eca2-6518-5144-b801-2ef947b337a9",
+        "ec0efb87-5b42-5240-9c9b-03102b1a9df4",
+        "433a072e-370c-555c-902e-51c41995d2c0",
+        "331b1b13-7614-57a9-b157-437feaa2af35",
+        "c48794d0-9687-52d9-bc7d-1e8ebcf6d6ff",
+        "ad72542f-edc3-596b-a650-6e7c931ebf32"
+    ]
+},
+{
+    "title": "耐克飞马女子公路跑步鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 949,
+        "discounted": false,
+        "employeePrice": 569,
+        "fullPrice": 949,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "黑/煤黑/光子灰/白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/5699572d-e5c7-408c-9e1f-026787419e3a/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/d4ca5164-48c8-4e03-afb2-87e77ade8429/pegasus-easyon-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E5%A5%B3%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-R18GbD.png"
+            }
+        },
+        {
+            "colorDescription": "淡象牙白/柔黄/浅骨色/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/dc4ef95b-8e1d-42fa-b27f-6264b33a5151/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/3e0fcf24-ccce-42ca-a52f-69d574e2a089/pegasus-easyon-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E5%A5%B3%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-7RNNK2.png"
+            }
+        },
+        {
+            "colorDescription": "黑/白色/煤黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/aeb4674b-c00a-4abb-84ce-2cce456c49ea/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/b54d1a4b-10af-4894-b0bb-77c1e271bad5/pegasus-easyon-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E5%A5%B3%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-7RNNK2.png"
+            }
+        }
+    ],
+    "size": [
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "35.5",
+        "36",
+        "36.5",
+        "37.5",
+        "38",
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42"
+    ],
+    "sku": [
+        "18f9c8d4-e346-59a6-b31b-a141e2664272",
+        "668c9e5d-6d3a-526a-96d1-5496ff24c1e2",
+        "98babd4b-15d0-56f5-b252-ed3ec5d5450b",
+        "3d4b48e0-87ff-5707-8f51-f23624ff4851",
+        "d080f538-ce2d-5c50-bbf6-624753b67661",
+        "656e9ca6-e621-5171-8403-945e92934b22",
+        "ae6704bb-aadd-50ba-b722-737d2272bfd6",
+        "3f55dd6d-f874-59b4-9fee-6457414ca5a0",
+        "a2afa872-ae2a-5b3f-8860-669db2dc2c2e",
+        "24b60a3e-c853-54ad-b315-cce1da1cabc9",
+        "734a36d2-9cc0-5771-8998-965e630b0fa0",
+        "8dffd45a-7150-593d-888a-3cf91ce5e8b2",
+        "1015af0c-73e2-5631-8bd5-383ba5c594c5",
+        "0b065890-f42e-5853-a282-e62285b356e3",
+        "c2c3ac30-c999-5a1f-a542-3fbe75f833f3",
+        "f412b27c-d051-5502-b533-dec9ca1ae926",
+        "e126332a-d895-5a5e-a8b8-551fc9b492ee",
+        "b4995335-f01f-544e-a33f-6f5564e9642c",
+        "31f0f3d6-a9b7-5950-884d-9b112c0f0cda",
+        "8b40e730-2e4b-5237-8d61-d724622f15d7",
+        "2458db5b-0bcc-5be8-aaf6-9e77d4ea1efe",
+        "20e235a6-286a-5966-a8de-4c7737f9fc0c",
+        "66f7232c-81a6-5770-91d9-b69af58e4051",
+        "a0ec4dcb-78f7-5254-ba89-36aced50e4af",
+        "f9659ba3-6820-5fb6-8676-ee3a3f32dab2",
+        "a0ef84e4-3a7e-5038-8b63-a09431ddb2e5",
+        "dcc74403-de82-5d83-a97f-99531bca3205",
+        "1b17a868-a8fd-5bac-8cc8-f83c61a2cc47",
+        "b61d4d56-7cad-5201-9ddd-ca0679f43042",
+        "8d6f081d-3b08-55bb-8d2f-f125f2deb51f",
+        "cdaaaac0-540f-562e-93ce-b17071d5c6d9",
+        "f1410264-8211-50fb-9bb2-0399b498b99c",
+        "e48a449d-954b-54f8-be3b-2b595e520034"
+    ]
+},
+{
+    "title": "耐克飞马男子公路跑步鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 949,
+        "discounted": false,
+        "employeePrice": 569,
+        "fullPrice": 949,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "暗蓝黑/超级紫罗兰色/煤黑/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/eb1244d3-6a10-4203-91d3-247be097897f/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/34a2ac4c-b9a3-45ee-aff0-fcc95ad1fac3/pegasus-41-se-%E8%80%90%E5%85%8B%E9%A3%9E%E9%A9%AC%E7%94%B7%E5%AD%90%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-3NSGZt.png"
+            }
+        }
+    ],
+    "size": [
+        "38.5",
+        "39",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "f169081c-c148-505c-b47d-4f66b9029240",
+        "18952d1d-cd5f-5426-89ab-a3a7ac9c137c",
+        "e5c453fb-9b28-564d-a7bf-d37ce772b342",
+        "5cb4270c-3879-5e06-a385-7e99b0b6c899",
+        "728ac2db-3d4b-5c26-b849-63e94e634e4f",
+        "1dbf3576-19b1-5c7c-b134-53a9a912aeea",
+        "0d2a1395-c4f6-5dc2-acef-6ba4af7c33c8",
+        "51333814-a074-5deb-a8c2-92de7779333c",
+        "15d8a121-1f97-5813-8203-c324ea2b2915",
+        "c780972c-851d-5db4-9aee-4958013d0905",
+        "4b66aba2-ab87-5a95-be54-2bf08e5091c5",
+        "72018838-bb74-55fd-9e73-60f58b02b327",
+        "50d00e80-aa38-5b70-8436-466390df9400"
+    ]
+},
+{
+    "title": "男子高尔夫一脚蹬运动鞋",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 749,
+        "discounted": false,
+        "employeePrice": 449,
+        "fullPrice": 749,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色/深藏青",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/96bdee44-9a71-4e1c-bb36-1de117597bdc/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a326bbf7-e758-4e8a-b602-74348688c34f/air-jordan-mule-%E7%94%B7%E5%AD%90%E9%AB%98%E5%B0%94%E5%A4%AB%E4%B8%80%E8%84%9A%E8%B9%AC%E8%BF%90%E5%8A%A8%E9%9E%8B-4x2ZxV.png"
+            }
+        },
+        {
+            "colorDescription": "巴洛克棕/白色/帆白/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/0d2cf13f-5d7d-42f4-9b5f-fd835f1e46d3/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/e207f0ee-138d-4d9b-9e01-c712d4c85f0b/air-jordan-mule-%E7%94%B7%E5%AD%90%E9%AB%98%E5%B0%94%E5%A4%AB%E4%B8%80%E8%84%9A%E8%B9%AC%E8%BF%90%E5%8A%A8%E9%9E%8B-dpn8TS.png"
+            }
+        },
+        {
+            "colorDescription": "白色/校园红/黑",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a47c94b5-9d04-412d-9ee3-cdf5faae64cc/air-jordan-mule-%E7%94%B7%E5%AD%90%E9%AB%98%E5%B0%94%E5%A4%AB%E4%B8%80%E8%84%9A%E8%B9%AC%E8%BF%90%E5%8A%A8%E9%9E%8B-dpn8TS.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/72df98db-d5d7-4829-aa4f-533e950de084/air-jordan-mule-%E7%94%B7%E5%AD%90%E9%AB%98%E5%B0%94%E5%A4%AB%E4%B8%80%E8%84%9A%E8%B9%AC%E8%BF%90%E5%8A%A8%E9%9E%8B-dpn8TS.png"
+            }
+        },
+        {
+            "colorDescription": "白色/深藏青/金属银",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/45d292a8-d46b-4d41-962a-fe202e3178ff/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/b66577fa-955e-4c53-a82b-3b3f8b7892dc/air-jordan-mule-%E7%94%B7%E5%AD%90%E9%AB%98%E5%B0%94%E5%A4%AB%E4%B8%80%E8%84%9A%E8%B9%AC%E8%BF%90%E5%8A%A8%E9%9E%8B-dpn8TS.png"
+            }
+        }
+    ],
+    "size": [
+        "36",
+        "37.5",
+        "38.5",
+        "40",
+        "41",
+        "42.5",
+        "44",
+        "45",
+        "46",
+        "47.5",
+        "36",
+        "37.5",
+        "38.5",
+        "40",
+        "41",
+        "42.5",
+        "44",
+        "45",
+        "46",
+        "47.5",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46",
+        "47.5",
+        "40",
+        "40.5",
+        "41",
+        "42",
+        "42.5",
+        "43",
+        "44",
+        "44.5",
+        "45",
+        "45.5",
+        "46",
+        "47.5"
+    ],
+    "sku": [
+        "6d7397d0-fe02-5899-b869-543722d26828",
+        "8d396cb8-1fb1-5216-8739-2ee01717437a",
+        "2d27c896-3681-57db-a957-0109ad29e1c9",
+        "2e8dd3b0-ae7b-595d-9b84-1d3bb60f7726",
+        "918964c4-8b0d-51a6-8e03-b4ab593d5217",
+        "87f45096-15d0-53b7-aa3e-168e17b73f3b",
+        "c0393170-d4b8-5ab7-bf06-36c77b8445ed",
+        "bfa99774-3750-54b7-a830-867a84f414a9",
+        "24e7f20d-1896-5b36-8159-b2425ed54de7",
+        "91540100-d425-5b9b-8754-aaf0080f5559",
+        "5147564b-4662-5978-b4ac-a9a84f48c917",
+        "d0e1ca74-e753-58f1-9aaa-27db1c5d3b40",
+        "6c296db1-0b6f-57bf-b851-2d97162310e1",
+        "8995b53e-a757-56a9-a937-e8b25e807d66",
+        "b82c7c69-4d27-5207-b15b-9ca4d11d5672",
+        "892434e9-1ae5-5aa4-94a8-9f80b307b186",
+        "afe7a053-cc02-5f8e-a05c-d697c1d44ad5",
+        "9f6086dc-a6c4-5f69-83c9-15a044db6106",
+        "b5e3dc94-21f2-50a8-84d1-3bfed9736a00",
+        "e3fc939f-8139-5639-9290-a96303705d77",
+        "4f086680-4348-5ac3-a405-4ef651d01bb2",
+        "2ef1a960-4534-58b4-9ad2-a8ca6aececc8",
+        "de4abeda-5dc1-5243-be5c-61981a41733e",
+        "ea7c404a-f786-5f19-85df-9c3c8083a475",
+        "e63a9d17-ef29-5fb7-aad8-1147586672e0",
+        "0e54be8d-1679-55a1-8400-4d7215bc9f62",
+        "689aab57-6086-5021-b2c9-2bdfdcc9837b",
+        "ba372827-e0d6-52fd-9907-e7ab2a8a2908",
+        "b551a76e-9740-545b-af04-69c17ca2d648",
+        "59aca5c6-df34-5305-be8a-662ad2ad9764",
+        "ce4c3bb4-add0-5f36-8eff-798d78e74519",
+        "b893a351-8b74-5e09-b91a-f54c974526b3",
+        "825005cf-3ea1-5aad-9dcb-fa9c143cee45",
+        "17ff3500-3ead-5526-869d-bb5c864ae8e7",
+        "3ff20d5a-29f9-552f-a35a-e73a5f291341",
+        "5eac33a4-59bf-5252-9455-34232c482286",
+        "cfe3a24f-62e8-5db5-976e-81ebf508df63",
+        "042b2f21-647a-5763-b545-9d871337c853",
+        "c4291ec0-710f-56fc-839e-38222ffa1cbf",
+        "6becf8b1-8e0b-5c9d-a1d7-bb1159deb385",
+        "97b41665-ebe0-5aed-b6e7-8c6233fb7a06",
+        "36fa7e56-bc36-5e3e-b8a3-f07172f684f4",
+        "9f810b2c-6fa2-5f04-90fb-67ebdfa5f56f",
+        "cdccf98b-9c00-54ef-a250-69a629baa295"
+    ]
+},
+{
+    "title": "Storm-FIT ADV 2.5L 男子防风防水夹克硬壳冲锋衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1899,
+        "discounted": false,
+        "employeePrice": 1139,
+        "fullPrice": 1899,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "浅卡其/杏茶色/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9cb5cee1-e917-432a-a2da-8fabc5132c1e/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/9d7a5b6a-f3c1-4cc8-bea9-9b52a69fb6a4/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-PnblWR.png"
+            }
+        },
+        {
+            "colorDescription": "绣球花紫/柔和紫/闪电蓝/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/290fb4a2-46ba-47ba-a1aa-918fafc4a90c/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/b1b4406e-c370-468a-bbaf-ac1bb1549586/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-PnblWR.png"
+            }
+        },
+        {
+            "colorDescription": "安全橙/游戏宝蓝/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/7010bbf9-f49f-49bf-a577-fdcbb63f6da6/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/66d418c0-e42c-445e-83ba-92adc1e303b7/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-lMV2R8.png"
+            }
+        },
+        {
+            "colorDescription": "游戏宝蓝/空间蓝/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/7d9625b1-a09e-4a86-ac6a-ee065b052542/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-3bNZXG.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/98324508-d6fa-401e-a003-eba3c822dd62/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-3bNZXG.png"
+            }
+        },
+        {
+            "colorDescription": "黑/黑/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/53307c7d-85bb-4e70-851b-8cde59d8eeaa/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/09b95077-c05e-444d-b951-35541db9f5ef/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-TPSFGq.png"
+            }
+        },
+        {
+            "colorDescription": "热情红 /浅黄褐/山峰白",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/9236ae66-66eb-458e-a44f-758855c946bf/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-SGtWk5.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/94b03e8a-1a77-4fc8-8654-507d275380c4/acg-morpho-storm-fit-adv-2-5l-%E7%94%B7%E5%AD%90%E9%98%B2%E9%A3%8E%E9%98%B2%E6%B0%B4%E5%A4%B9%E5%85%8B%E7%A1%AC%E5%A3%B3%E5%86%B2%E9%94%8B%E8%A1%A3-SGtWk5.png"
+            }
+        }
+    ],
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sku": [
+        "1406e7b6-96f1-531c-9b0c-78109948cf2e",
+        "ef8587cb-1151-5c4a-9443-1a384e0a1f41",
+        "51dcb776-a010-5231-8927-b6ccb991e5ba",
+        "3241f1ac-db31-506c-b45c-6ff985837d49",
+        "3d2c566d-0fb8-5c81-8e04-9644ab14ef18",
+        "be49f6d5-25b7-543a-ade8-3f16d614ba0c",
+        "1fa8a9fc-3faa-5c75-83a0-45b7ba75761b",
+        "6720562b-edc9-5046-80fd-bd660bcc47a9",
+        "93101519-47c8-5aac-8dd1-0023b29e84b8",
+        "e92eb833-d625-5615-8c81-6a013b6f76f0",
+        "ea413f79-9f15-5490-82fd-978c3159943f",
+        "6968cbcc-0cdf-5e16-9e95-dd0a8982cd37",
+        "99ac91af-1dac-5fea-ae86-8197d2e64231",
+        "d36dabb3-c284-50a9-9493-723fb91d7f57",
+        "91e1ef5d-e214-5a63-a0e6-75a86878cfba",
+        "4363f49f-d856-5737-9731-41ed52100757",
+        "a543d259-aa76-5386-bcdd-42012e91a746",
+        "0769dd58-4448-5a6a-b45c-74325d05acc2",
+        "021c9fe4-349e-512c-bb67-b6f52fc73a50",
+        "a3fc3798-785b-576a-8ba1-004ca6b0dde2",
+        "88f9ffa7-4d48-5f7f-91de-6a87a998ae19",
+        "5210883b-933c-5255-904f-a306d4804092",
+        "aae6b9d4-5705-559c-b119-413c1d0844d3",
+        "f05ed9b6-b88c-515e-b73e-d305423efcbf",
+        "2eba5ba2-fccc-56bf-8c97-b56ce2e973f3",
+        "dd8230f0-b1db-57e7-84d6-c6bed5c4482e",
+        "b4d81c08-2e7d-5cb4-91cd-9c696b6defd2",
+        "abd3e9ac-b9a4-5948-87b9-ccebfdef83e2",
+        "e5c31cec-b23b-5a39-955c-56a8f9a2f847",
+        "af089313-6a88-5d3b-99c7-2a62bdea4db7",
+        "be60eccd-bb36-5928-b019-400d12d1f68b",
+        "13782384-a6dd-5fff-952d-dea0ae5a5edb",
+        "0557b9a6-8825-56ce-89ee-410fd8fcb59b"
+    ]
+},
+{
+    "title": "Dri-FIT 女子速干网球连衣裙",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 899,
+        "discounted": false,
+        "employeePrice": 539,
+        "fullPrice": 899,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/abf6b8a8-ab6a-4be2-8b69-e52fff38c2d8/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/19bfabee-1245-47ae-bbff-c018dbd32e93/nikecourt-slam-dri-fit-%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E8%BF%9E%E8%A1%A3%E8%A3%99-nrM5Lx.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sku": [
+        "fa6b0c6f-2cd6-5e6c-a206-2933e983ddfe",
+        "857df822-6f6c-5391-bcc9-a8d26fe889e5",
+        "18c87714-d980-5e7c-aeb9-1cf9679172a2",
+        "909bad24-fbff-5d4d-8ba8-8dce81ea7fd0",
+        "94b8087e-6deb-5106-ae9e-c572c6cf5156",
+        "e4dc9812-0e3c-5008-87f2-2a924e8e4837"
+    ]
+},
+{
+    "title": "Dri-FIT 女子速干网球背心",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 499,
+        "discounted": false,
+        "employeePrice": 299,
+        "fullPrice": 499,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "白色",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/4c2230c2-03bd-43db-8f87-8795d7f995ac/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/e1889c8a-6453-42d9-94a6-64ac1200024d/nikecourt-slam-dri-fit-%E5%A5%B3%E5%AD%90%E9%80%9F%E5%B9%B2%E7%BD%91%E7%90%83%E8%83%8C%E5%BF%83-Q1Sk8C.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "sku": [
+        "ac979eec-770d-5fe2-b9a7-b0f5b7291195",
+        "8b977815-440b-52b9-aae2-16a4d04a63a4",
+        "9666b944-fd10-591b-a76f-eccaa3137a43",
+        "3968331b-29eb-562e-b3b3-50722e329624",
+        "1cf20c02-f5ec-5b4b-8ea1-1b66d166e9e3",
+        "139a3176-c0e0-590c-a805-1d72c8aa7c7f"
+    ]
+},
+{
+    "title": "Nike Dri-FIT ADV 男子速干足球球衣",
+    "price": {
+        "currency": "CNY",
+        "currentPrice": 1099,
+        "discounted": false,
+        "employeePrice": 659,
+        "fullPrice": 1099,
+        "minimumAdvertisedPrice": null
+    },
+    "colorways": [
+        {
+            "colorDescription": "幻影灰白/速度红/银河绿/银河绿",
+            "img_url": {
+                "portraitURL": "https://static.nike.com.cn/a/images/c_limit,w_400,f_auto/t_product_v1/a5aff61e-4066-4b8a-b537-03cf91ad9c03/image.jpg",
+                "squarishURL": "https://static.nike.com.cn/a/images/t_default/8c5a2c6e-b6ae-4d85-83ca-776302340816/2025-26-%E8%B5%9B%E5%AD%A3%E5%88%87%E5%B0%94%E8%A5%BF%E5%AE%A2%E5%9C%BA%E7%90%83%E5%91%98%E7%89%88-dri-fit-adv-%E7%94%B7%E5%AD%90%E9%80%9F%E5%B9%B2%E8%B6%B3%E7%90%83%E7%90%83%E8%A1%A3-sRrVVW.png"
+            }
+        }
+    ],
+    "size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+    ],
+    "sku": [
+        "1bdac4b6-2c7e-5726-a964-22b33faaa9e2",
+        "1f599b96-ea35-5b62-a2de-8c6e7f693c3c",
+        "bdb95b7b-1450-5b50-8dea-05dfeb6263e2",
+        "a796d104-a611-59c1-a552-e5ae3abd3e03",
+        "8dfeacdb-bb5b-5b38-92e6-dcd20403a374",
+        "0a3b5369-3e1d-5120-9d5e-5251fab06103",
+        "eed8dcde-42bf-5eb1-9afe-9a524fdae9ca"
+    ]
+}]
